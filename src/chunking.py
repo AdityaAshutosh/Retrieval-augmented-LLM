@@ -7,7 +7,7 @@ from nltk.tokenize import word_tokenize
 import nltk
 from config import PROCESSED_DATA_DIR, RAW_DATA_DIR
 
-# Download NLTK data files
+
 nltk.download('punkt')
 nltk.download('stopwords')
 

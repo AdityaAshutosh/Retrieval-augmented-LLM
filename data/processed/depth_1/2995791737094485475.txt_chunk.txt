@@ -1,0 +1,561 @@
+
+
+
+
+
+
+
+Boosting Mathematical Optimization Performance and Energy Efficiency on the NVIDIA Grace CPU | NVIDIA Technical Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEVELOPER
+
+
+
+HomeBlogForumsDocsDownloadsTraining
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Join
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Related Resources 
+
+
+
+
+
+
+
+
+Simulation / Modeling / Design
+
+
+
+
+
+Boosting Mathematical Optimization Performance and Energy Efficiency on the NVIDIA Grace CPU
+
+
+            Jul 12, 2024
+          
+
+            By Greg Glockner 
+
+
+  
+
+                Like              
+
+
+
+ Discuss (0)
+                
+
+
+
+ 
+
+
+
+
+
+
+
+L
+T
+F
+R
+E
+ 
+
+Mathematical optimization is a powerful tool that enables businesses and people to make smarter decisions and reach any number of goals—from improving operational efficiency to reducing costs to increasing customer satisfaction. Many of these are everyday use cases, such as scheduling a flight, pricing a hotel room, choosing a GPS route, routing delivery trucks, and more.
+However, mathematical optimization is computationally intensive. Model complexity and dataset sizes require sophisticated AI algorithms and high-performance computing. As the demand for faster and better mathematical optimization solutions grows, full-stack innovation is needed from systems, software platforms, and acceleration libraries.
+Founded in 2008, Gurobi is a mathematical optimization solver that solves complex problems and delivers optimal solutions within seconds to over 1,200 global customers across industries. The company received a Supermicro NVIDIA MGX-based system powered by the NVIDIA GH200 Grace Hopper Superchip, which supports fast performance at a low power consumption rate.  
+This blog post explores benchmark results and use cases showing improved efficiency using the Arm-based NVIDIA Grace CPU.
+Setup for Mixed Integer Programming Library computational optimization tests
+The test platform consisted of a single NVIDIA Grace Hopper Superchip server from Supermicro, a cluster of four AMD EPYC 7313P servers, each with 16 cores and 256 GB of DDR4 memory, and Gurobi Optimizer 11.0 on Ubuntu 22.04.  
+The NVIDIA Grace Hopper Superchip combines an Arm-based NVIDIA Grace CPU with the NVIDIA Hopper GPU using a high-bandwidth, coherent NVIDIA NVLink-C2C (chip-to-chip) interconnect. The Grace CPU features 72 cores and 480 GB of high-performance, low-power double data rate 5x (LPDDR5X) memory.
+To evaluate performance, Gurobi conducted a series of experiments using a representative benchmark set from the Mixed Integer Programming Library (MIPLIB) 2017, which contains 240 real-world optimization instances. The results for the NVIDIA Grace CPU on the Grace Hopper Superchip were compared with a cluster of AMD EPYC servers commonly used by their customers. 
+Preliminary results  
+The first graph shows the runtime for the hard models in the MIPLIB Benchmark set.  
+Grace Hopper outperforms EPYC on most hard models, with an average runtime of about 80 seconds versus 130 seconds for AMD—a 38% improvement.
+
+Figure 1. The geometric mean of runtime on NVIDIA Grace CPU compared to AMD EPYC 7313P
+The following graph shows the throughput and energy for the entire MIPLIB Benchmark set. The lower the time and energy, the better the performance. Again, the NVIDIA Grace CPU outperforms AMD EPYC 7313P on both metrics, running nearly 23% faster while using 46% less energy.
+
+Figure 2. Throughput and energy on NVIDIA Grace CPU compared to AMD EPYC 7313P
+Figure 3 shows the energy for the MIPLIB Benchmark set, in kWh. For each configuration, Grace Hopper consumed less energy than AMD EPYC 7313P for both thread counts, with the following results: 
+
+At 8 threads, the NVIDIA Grace CPU uses about 1.4 kWh versus 1.75 kWh for AMD, a 20% improvement. 
+At 12 threads, the NVIDIA Grace CPU uses about 1.6 kWh versus 2.6 kWh for AMD, a 38% improvement. 
+
+
+Figure 3. Energy for MIPLIB Benchmark set, in kWh, on NVIDIA Grace CPU compared to AMD EPYC 7313P
+These results demonstrate that the Gurobi Optimizer on the NVIDIA Grace CPU achieves significant speedups and energy savings compared to AMD EPYC 7313P for solving challenging MIP models.  
+This is attributed to the superior multi-processing capabilities of the NVIDIA Grace CPU, which can handle the high computational and memory demands of the optimizer efficiently.  
+Fast, efficient solving with the NVIDIA Grace Hopper Superchip 
+Preliminary benchmarks show that Gurobi Optimizer and the NVIDIA Grace Hopper Superchip support faster computational performance with lower energy consumption, with plans to improve their results with additional tuning and testing.
+This offers a promising outlook for companies across a wide range of industries that are looking to improve their energy efficiency while solving complex business challenges with better performance. For a closer look at the tests and results outlined, watch the on-demand session from NVIDIA GTC. For more insights into how mathematical optimization can help solve your most complex challenges, check out the Gurobi Resource Center.
+
+
+Related resources
+GTC session: Accelerate Gurobi Optimization with Energy-Efficient NVIDIA Grace CPUGTC session: Performance Optimization for Grace CPU SuperchipGTC session: Deep Dive into Math LibrariesSDK: CUDA MATH APISDK: OptiXSDK: cuSOLVERMp
+
+
+
+
+ Discuss (0)
+        
+
+
+  
+
+      Like    
+
+
+
+
+Tags
+
+
+Data Science | Simulation / Modeling / Design | Energy | Grace CPU | H100 | Intermediate Technical | Spotlight 
+
+
+
+
+
+                About the Authors
+          
+
+
+
+
+
+
+
+                  About Greg Glockner
+                
+
+                
+                          Greg Glockner is the vice president and a technical fellow at Gurobi Optimization. Responsible for engineering and strategic direction for advanced software, Greg has launched new products and managed a small, global team for developer support. Greg is an international spokesperson for industry analysts and trade publications who has a Ph. D in operations research, with multiple publications.
+            
+                                                    
+                          
+
+                                            View all posts by Greg Glockner
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related posts
+
+
+
+
+
+
+
+
+          Building High-Performance Applications in the Era of Accelerated Computing
+        
+
+
+
+Building High-Performance Applications in the Era of Accelerated Computing
+
+
+
+
+
+
+
+
+
+
+
+          Unlock the Power of NVIDIA Grace and NVIDIA Hopper Architectures with Foundational HPC Software
+        
+
+
+
+Unlock the Power of NVIDIA Grace and NVIDIA Hopper Architectures with Foundational HPC Software
+
+
+
+
+
+
+
+
+
+
+
+          Announcing NVIDIA DGX GH200: The First 100 Terabyte GPU Memory System
+        
+
+
+
+Announcing NVIDIA DGX GH200: The First 100 Terabyte GPU Memory System
+
+
+
+
+
+
+
+
+
+
+
+          Inside NVIDIA Grace CPU: NVIDIA Amps Up Superchip Engineering for HPC and AI
+        
+
+
+
+Inside NVIDIA Grace CPU: NVIDIA Amps Up Superchip Engineering for HPC and AI
+
+
+
+
+
+
+
+
+
+
+
+          Defining AI Innovation with NVIDIA DGX A100
+        
+
+
+
+Defining AI Innovation with NVIDIA DGX A100
+
+
+
+
+
+Related posts
+
+
+
+
+
+
+
+
+          Spotlight: Honeywell Accelerates Industrial Process Simulation with NVIDIA cuDSS
+        
+
+
+
+Spotlight: Honeywell Accelerates Industrial Process Simulation with NVIDIA cuDSS
+
+
+
+
+
+
+
+
+
+
+
+          Featured Energy Sessions at NVIDIA GTC 2024
+        
+
+
+
+Featured Energy Sessions at NVIDIA GTC 2024
+
+
+
+
+
+
+
+
+
+
+
+          Energy Efficiency in High-Performance Computing: Balancing Speed and Sustainability
+        
+
+
+
+Energy Efficiency in High-Performance Computing: Balancing Speed and Sustainability
+
+
+
+
+
+
+
+
+
+
+
+          Optimize Energy Efficiency of Multi-Node VASP Simulations with NVIDIA Magnum IO
+        
+
+
+
+Optimize Energy Efficiency of Multi-Node VASP Simulations with NVIDIA Magnum IO
+
+
+
+
+
+
+
+
+
+
+
+          Exelon Uses Synthetic Data Generation of Grid Infrastructure to Automate Drone Inspection
+        
+
+
+
+Exelon Uses Synthetic Data Generation of Grid Infrastructure to Automate Drone Inspection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L
+T
+F
+R
+E
+ 
+
+

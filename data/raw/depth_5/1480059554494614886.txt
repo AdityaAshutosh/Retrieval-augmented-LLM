@@ -1,0 +1,582 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation Guide - RAPIDS Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAPIDS Docs
+Menu
+
+
+
+
+Home
+
+
+Installation Guide
+
+
+User Guides
+
+
+API Docs
+
+
+Visualization Guide
+
+
+Contributing
+
+
+Issues
+
+
+Code Contributions
+
+
+Pull Requests
+
+
+
+
+Maintainer Docs
+
+
+Datasets
+
+
+Forward Mergers
+
+
+Testing Practices
+
+
+Release Docs
+
+
+Issue Triage
+
+
+Release Planning
+
+
+Hotfix Process
+
+
+Release Process
+
+
+Release Schedule
+
+
+
+
+Resources
+
+
+Code of Conduct
+
+
+Changelog Format
+
+
+Auto-Merger
+
+
+Git Methodology
+
+
+GitHub Actions
+
+
+Reproducing CI Locally
+
+
+Style Guide
+
+
+Label Checker
+
+
+Recently Updated Check
+
+
+Versions and Tags
+
+
+Burn Down Guide
+
+
+
+
+
+
+RAPIDS Notices
+
+
+RAPIDS Developer Notices
+
+
+
+
+RAPIDS General Notices
+
+
+
+
+RAPIDS Support Notices
+
+
+
+
+
+
+
+          Deployment Guides
+        
+
+
+
+
+This site uses Just the Docs, a documentation theme for Jekyll.
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+View Docs on GitHub
+
+
+
+
+
+RAPIDS Installation Guide
+RAPIDS has several methods for installation, depending on the preferred environment and version.
+New Users should review the system and environment prerequisites.
+Install RAPIDS with Release Selector 
+
+Installation Troubleshooting
+
+System Requirements 
+
+OS, NVIDIA GPU Driver, and CUDA Versions
+System Recommendations
+Cloud Instance GPUs
+
+Environment Setup 
+
+Conda
+Docker
+pip
+Within WSL2
+
+Conda
+Docker
+pip
+
+
+Build From Source
+
+Next Steps
+
+
+Install RAPIDS
+Use the selector tool below to select your preferred method, packages, and environment to install RAPIDS. Certain combinations may not be possible and are dimmed automatically.
+
+
+
+
+
+
+
+Release
+
+
+
+Method
+
+
+
+ENV. CUDA
+
+
+
+System CUDA
+
+
+
+Python
+
+
+
+
+RAPIDS Packages
+
+
+
+
+
+
+
+Additional Packages
+
+
+
+
+
+Packages
+
+
+
+
+
+
+
+
+
+Image Location
+
+
+
+Image Type
+
+
+
+
+
+
+
+
+
+
+
+Command
+
+
+
+
+
+
+COPY COMMAND 
+
+
+
+
+
+
+Installation Troubleshooting
+Conda Issues
+ A conda create error occurs:
+To resolve this error please follow one of these steps:
+
+If the Conda installation is older than 22.11, please update your Conda or Miniconda to the latest version. This will include libmamba, a Mamba-powered Conda solver that is now included with all Conda/Miniconda installations to significantly accelerate environment solving.
+If the Conda installation is version 22.11 or newer, run: conda install -n base conda-libmamba-solver and run
+conda create --solver=libmamba ...
+Use Mamba directly as mamba create ...
+
+ A __cuda constraint conflict occurs:
+You may see something like:
+LibMambaUnsatisfiableError: Encountered problems while solving:
+ - package cuda-version-12.0-hffde075_0 has constraint __cuda >=12 conflicting with __cuda-11.4-0
+
+This means the CUDA driver currently installed on your machine (e.g. __cuda: 11.4.0) is
+incompatible with the cuda-version (12.0) you are trying to install. You will have to ensure the CUDA
+driver on your machine supports the CUDA version you are trying to install with conda.
+If conda has incorrectly identified the CUDA driver, you can override by setting the CONDA_OVERRIDE_CUDA environment variable.
+Docker Issues
+ RAPIDS 23.08 brought significant Docker changes. 
+To learn more about these changes, please see the RAPIDS Container README. Some key notes below:
+
+Development images are no longer being published, in the coming releases RAPIDS will roll out Dev Containers for development
+    
+See cuSpatial for an example and information on RAPIDS’ usage of Dev Containers
+
+
+All images are Ubuntu-based
+    
+CUDA 11.2 images are Ubuntu 20.04
+All other images are Ubuntu 22.04
+
+
+All images are multiarch (x86_64 and ARM)
+The Base image starts in an ipython shell
+    
+To run bash commands inside the ipython shell prefix the command with !
+To run the image without the ipython shell add /bin/bash to the end of the docker run command
+
+
+For a full list of changes please see this RAPIDS Docker Issue
+
+pip Issues
+ pip installations require using the matching wheel to the system’s installed CUDA toolkit. For CUDA 11 toolkits, install the -cu11 wheels, and for CUDA 12 toolkits install the -cu12 wheels. If your installation has a CUDA 12 driver but a CUDA 11 toolkit, use the -cu11 wheels. 
+ Infiniband is not supported yet. 
+ These packages are not compatible with Tensorflow pip packages. Please use the NGC containers or conda packages instead. 
+ If you experience a “Failed to import CuPy” error, please uninstall any existing versions of cupy and install cupy-cuda11x. For example:
+pip uninstall cupy-cuda115; pip install cupy-cuda11x
+
+
+ The following error message indicates a problem with your environment:
+ERROR: Could not find a version that satisfies the requirement cudf-cu12 (from versions: 0.0.1, 24.06)
+ERROR: No matching distribution found for cudf-cu12
+
+Check the suggestions below for possible resolutions:
+
+The pip index has moved from the initial experimental release! Ensure the correct --extra-index-url=https://pypi.nvidia.com
+Only Python versions 3.9, 3.10, and 3.11 are supported
+RAPIDS pip packages require a recent version of pip that supports PEP600. Some users may need to update pip: pip install -U pip
+
+
+ Dask / Jupyter / Tornado 6.2 dependency conflicts can occur. Install jupyter-client 7.3.4 if the error below occurs: 
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behavior is the source of the following dependency conflicts.
+jupyter-client 7.4.2 requires tornado>=6.2, but you have tornado 6.1 which is incompatible.
+
+ cuSpatial installation may yield the error below:
+ERROR: GDAL >= 3.2 is required for fiona. Please upgrade GDAL.
+
+To resolve, either GDAL needs to be updated, or fiona needs to be pinned to specific versions depending on the installation OS. please see the cuSpatial README to resolve this error.
+
+WSL2 Issues
+See the WSL2 setup troubleshooting section.
+
+
+System Requirements
+OS / GPU Driver / CUDA Versions
+All provisioned systems need to be RAPIDS capable. Here’s what is required:
+ GPU: NVIDIA Volta™ or higher with compute capability 7.0+
+
+ Pascal™ GPU support was removed in 24.02. Compute capability 7.0+ is required for RAPIDS 24.02 and later.
+
+ OS: One of the following OS versions:
+
+ Ubuntu 20.04/22.04 or Rocky Linux 8 with gcc/++ 9.0+
+ Windows 11 using a WSL2 specific install
+ RHEL 7/8 support is provided through Rocky Linux 8 builds/installs
+
+ CUDA & NVIDIA Drivers: One of the following supported versions:
+
+ CUDA 11.2 with Driver 470.42.01 or newer
+ CUDA 11.4 with Driver 470.42.01 or newer
+ CUDA 11.5 with Driver 495.29.05 or newer
+ CUDA 11.8 with Driver 520.61.05 or newer
+ CUDA 12.0 with Driver 525.60.13 or newer see CUDA 12 section below for notes on usage
+ CUDA 12.2 with Driver 535.86.10 or newer see CUDA 12 section below for notes on usage
+
+Note: RAPIDS is tested with and officially supports the versions listed above. Newer CUDA and driver versions may also work with RAPIDS. See CUDA compatibility for details.
+CUDA 12 Support
+Docker and Conda
+
+ Stable CUDA 12 conda packages and Docker images currently support CUDA 12.0. Additionally, nightly versions now support CUDA 12.2
+ CUDA 11 conda packages and Docker images can be used on a system with a CUDA 12 driver because they include their own CUDA toolkit
+
+pip
+
+ pip installations require using a wheel matching the system’s installed CUDA toolkit.
+ For CUDA 11 toolkits, install the -cu11 wheels, and for CUDA 12 toolkits install the -cu12 wheels. If your installation has a CUDA 12 driver but a CUDA 11 toolkit, use the -cu11 wheels.
+
+
+
+System Recommendations
+Aside from the system requirements, other considerations for best performance include:
+
+ SSD drive (NVMe preferred)
+ Approximately 2:1 ratio of system Memory to total GPU Memory (especially useful for Dask)
+ NVLink with 2 or more GPUs
+
+
+
+Cloud Instance GPUs
+If you do not have access to GPU hardware, there are several cloud service providers (CSP) that are RAPIDS enabled. Learn how to deploy RAPIDS on AWS, Azure, GCP, and IBM cloud on our Cloud Deployment Page.
+Several services also offer free and limited trials with GPU resources:
+
+Amazon SageMaker Studio Lab
+Google CoLab w/ pip
+Google CoLab w/ Conda
+PaperSpace
+
+
+
+Environment Setup
+For most installations, you will need a Conda or Docker environments installed for RAPIDS. Note, these examples are structured for installing on Ubuntu. Please modify appropriately for Rocky Linux. Windows 11 has a WSL2 specific install.
+
+
+Conda
+RAPIDS can use several versions of conda:
+
+Full installation with Anaconda (with optional faster libmamba solver).
+Minimal installation with Miniconda
+Faster environment solving installation with standalone Mamba.
+
+Below is a quick installation guide using miniconda.
+1. Download and Run Install Script. Copy the command below to download and run the miniconda install script:
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+
+2. Customize Conda and Run the Install. Use the terminal window to finish installation. Note, we recommend enabling conda-init.
+3. Start Conda. Open a new terminal window, which should now show Conda initialized.
+4. Check Conda Configuration. Installing RAPIDS requires you to use channel_priority: flexible. You can check this and change it, if required, by doing:
+conda config --show channel_priority
+conda config --set channel_priority flexible
+
+
+
+Docker
+RAPIDS requires both Docker CE v19.03+ and nvidia-container-toolkit installed.
+
+ Legacy Support: Docker CE v17-18 and nvidia-docker2
+
+1. Download and Install. Copy command below to download and install the latest Docker CE Edition:
+curl https://get.docker.com | sh
+
+2. Install Latest NVIDIA Docker. Select the appropriate supported distribution:
+curl -s -L https://nvidia.github.io/nvidia-container-runtime/gpgkey | sudo apt-key add - distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
+curl -s -L https://nvidia.github.io/nvidia-container-runtime/$distribution/nvidia-container-runtime.list | sudo tee /etc/apt/sources.list.d/nvidia-container-runtime.list
+sudo apt-get update
+sudo apt-get install nvidia-container-runtime
+
+3. Start Docker. In new terminal window run:
+sudo service docker stop
+sudo service docker start
+
+4a. Test NVIDIA Docker. In a terminal window run:
+docker run --gpus all nvcr.io/nvidia/k8s/cuda-sample:nbody nbody -gpu -benchmark
+
+4b. Legacy Docker Users. Docker CE v18 & nvidia-docker2 users will need to replace the following for compatibility:
+docker run --gpus all with docker run --runtime=nvidia
+
+JupyterLab.
+The command provided from the selector for the notebooks Docker image will run JupyterLab on your host machine at port: 8888.
+Running Multi-Node / Multi-GPU (MNMG) Environment. To start the container in an MNMG environment:
+docker run -t -d --gpus all --shm-size=1g --ulimit memlock=-1 --ulimit stack= 67108864 -v $PWD:/ws <container label>
+
+The standard docker command may be sufficient, but the additional arguments ensures more stability.  See the NCCL docs and UCX docs for more details on MNMG usage.
+Custom Datasets. See the RAPIDS Container README for more information about using custom datasets. Docker Hub and NVIDIA GPU Cloud host RAPIDS containers with a full list of available tags.
+
+
+pip
+RAPIDS pip packages are available for CUDA 11 and CUDA 12 on the NVIDIA Python Package Index.
+pip Additional Prerequisites
+ The CUDA toolkit version on your system must match the pip CUDA version you install (-cu11 or -cu12). 
+ glibc version: x86_64 wheels require glibc >= 2.17. 
+ glibc version: ARM architecture (aarch64) wheels require glibc >= 2.32 (only ARM Server Base System Architecture is supported).
+
+
+Windows WSL2
+Windows users can now tap into GPU accelerated data science on their local machines using RAPIDS on Windows Subsystem for Linux 2. WSL2 is a Windows feature that enables users to run native Linux command line tools directly on Windows. Using this feature does not require a dual boot environment, removing complexity and saving you time.
+WSL2 Additional Prerequisites
+ OS: Windows 11 with Ubuntu 22.04 instance for WSL2. 
+ WSL Version: WSL2 (WSL1 not supported). 
+ GPU: GPUs with Compute Capability 7.0 or higher (16GB+ GPU RAM is recommended).
+Limitations
+ Only single GPU is supported. 
+ GPU Direct Storage is not supported.
+
+Troubleshooting
+ When installing with Conda, if an http 000 connection error occurs when accessing the repository data, run wsl --shutdown and then restart the WSL instance.
+ When installing with Conda or pip, if an WSL2 Jitify fatal error: libcuda.so: cannot open shared object file error occurs, follow suggestions in this WSL issue to resolve.
+ When installing with Docker Desktop, if the container pull command is successful, but the run command hangs indefinitely, ensure you’re on Docker Desktop >= 4.18.
+
+
+WSL2 Conda Install (Preferred Method)
+
+Install WSL2 and the Ubuntu 22.04 package using Microsoft’s instructions.
+Install the latest NVIDIA Drivers on the Windows host.
+Log in to the WSL2 Linux instance.
+Install Conda in the WSL2 Linux Instance using our Conda instructions.
+Install RAPIDS via Conda, using the RAPIDS Release Selector.
+Run this code to check that the RAPIDS installation is working:
+    import cudf
+print(cudf.Series([1, 2, 3]))
+ 
+
+
+
+
+WSL2 Docker Desktop Install
+
+Install WSL2 and the Ubuntu 22.04 package using Microsoft’s instructions.
+Install the latest NVIDIA Drivers on the Windows host.
+Install latest Docker Desktop for Windows
+Log in to the WSL2 Linux instance.
+Generate and run the RAPIDS docker command based on your desired configuration using the RAPIDS Release Selector.
+Inside the Docker instance, run this code to check that the RAPIDS installation is working:
+    import cudf
+print(cudf.Series([1, 2, 3]))
+ 
+
+
+
+
+WSL2 pip Install
+
+Install WSL2 and the Ubuntu 22.04 package using Microsoft’s instructions.
+Install the latest NVIDIA Drivers on the Windows host.
+Log in to the WSL2 Linux instance.
+Follow this helpful developer guide and then install the WSL-specific CUDA 11 or CUDA 12 Toolkit without drivers into the WSL2 instance.
+    
+The installed CUDA Toolkit version must match the pip wheel version (-cu11 or -cu12)
+Any CUDA 12 CTK will work with RAPIDS -cu12 pip packages
+
+
+Install RAPIDS pip packages on the WSL2 Linux Instance using the release selector commands.
+Run this code to check that the RAPIDS installation is working:
+    import cudf
+print(cudf.Series([1, 2, 3]))
+ 
+
+
+
+
+Build from Source
+To build from source, check each RAPIDS GitHub README, such as the cuDF’s source environment set up and build instructions. Further links are provided in the selector tool. If additional help is needed reach out on our Slack Channel.
+
+
+Next Steps
+After installing the RAPIDS libraries, the best place to get started is our User Guide. Our RAPIDS.ai home page also provides a great deal of information, as does our Blog Page and the NVIDIA Developer Blog. We are also always available on our RAPIDS GoAi Slack Channel.
+
+
+
+
+
+
+
+

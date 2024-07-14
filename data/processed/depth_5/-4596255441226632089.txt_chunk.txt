@@ -1,0 +1,2293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page Not Found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit 
+Search
+
+
+
+
+
+
+NVIDIA Developer
+
+
+
+
+
+Blog
+
+
+
+
+
+Forums
+
+
+
+
+
+Join
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit 
+Search
+
+
+
+
+
+
+
+
+NVIDIA Developer
+
+
+
+
+
+Blog
+
+
+
+
+
+Forums
+
+
+
+
+
+Join
+
+
+
+
+
+
+Menu
+
+
+
+
+Page Not Found
+This page no longer exists. It is a 
+non-supported format.If you have any questions, please contact us.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corporate Info
+
+
+NVIDIA.com 
+Home
+
+About NVIDIA
+
+
+
+
+
+
+
+âNVIDIA Developer
+
+
+Developer 
+Home
+
+Blog
+
+
+
+
+
+
+
+Resources
+
+
+Contact Us
+
+Developer Program
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright Â© 2023 NVIDIA 
+CorporationLegal Information | Privacy | Cookie Policy | Contact
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - triton-inference-server/server: The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+By size
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+
+By use case
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+
+        Resources
+        
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Innersource
+
+    
+
+
+
+      Open Source
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        triton-inference-server
+ 
+/
+
+server
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    1.4k
+
+
+
+
+ 
+
+
+          Star
+ 7.8k
+  
+
+
+
+
+
+
+
+
+
+
+        The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
+      
+
+
+
+
+
+docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html
+
+
+License
+
+
+
+
+
+     BSD-3-Clause license
+    
+
+
+
+
+
+
+7.8k
+          stars
+ 
+
+
+
+1.4k
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+493
+
+
+
+
+
+
+Pull requests
+48
+
+
+
+
+
+
+Discussions
+
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Discussions
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+triton-inference-server/server
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    mainBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History3,405 Commits.github.github  deploydeploy  dockerdocker  docsdocs  qaqa  srcsrc  .clang-format.clang-format  .dockerignore.dockerignore  .gitignore.gitignore  .pre-commit-config.yaml.pre-commit-config.yaml  CITATION.cffCITATION.cff  CMakeLists.txtCMakeLists.txt  CONTRIBUTING.mdCONTRIBUTING.md  Dockerfile.QADockerfile.QA  Dockerfile.sdkDockerfile.sdk  Dockerfile.win10.minDockerfile.win10.min  LICENSELICENSE  NVIDIA_Deep_Learning_Container_License.pdfNVIDIA_Deep_Learning_Container_License.pdf  README.mdREADME.md  SECURITY.mdSECURITY.md  TRITON_VERSIONTRITON_VERSION  Triton-CCLA-v1.pdfTriton-CCLA-v1.pdf  build.pybuild.py  compose.pycompose.py  pyproject.tomlpyproject.toml  View all filesRepository files navigationREADMEBSD-3-Clause licenseSecurity
+Triton Inference Server
+
+Warning
+LATEST RELEASE
+You are currently on the main branch which tracks under-development progress towards the next release.
+The current release is version 2.47.0 and corresponds to the 24.06 container release on NVIDIA GPU Cloud (NGC).
+
+Triton Inference Server is an open source inference serving software that
+streamlines AI inferencing. Triton enables teams to deploy any AI model from
+multiple deep learning and machine learning frameworks, including TensorRT,
+TensorFlow, PyTorch, ONNX, OpenVINO, Python, RAPIDS FIL, and more. Triton
+Inference Server supports inference across cloud, data center, edge and embedded
+devices on NVIDIA GPUs, x86 and ARM CPU, or AWS Inferentia. Triton Inference
+Server delivers optimized performance for many query types, including real time,
+batched, ensembles and audio/video streaming. Triton inference Server is part of
+NVIDIA AI Enterprise,
+a software platform that accelerates the data science pipeline and streamlines
+the development and deployment of production AI.
+Major features include:
+
+Supports multiple deep learning
+frameworks
+Supports multiple machine learning
+frameworks
+Concurrent model
+execution
+Dynamic batching
+Sequence batching and
+implicit state management
+for stateful models
+Provides Backend API that
+allows adding custom backends and pre/post processing operations
+Supports writing custom backends in python, a.k.a.
+Python-based backends.
+Model pipelines using
+Ensembling or Business
+Logic Scripting
+(BLS)
+HTTP/REST and GRPC inference
+protocols based on the community
+developed KServe
+protocol
+A C API and
+Java API
+allow Triton to link directly into your application for edge and other in-process use cases
+Metrics indicating GPU utilization, server
+throughput, server latency, and more
+
+New to Triton Inference Server? Make use of
+these tutorials
+to begin your Triton journey!
+Join the Triton and TensorRT community and
+stay current on the latest product updates, bug fixes, content, best practices,
+and more.  Need enterprise support?  NVIDIA global support is available for Triton
+Inference Server with the
+NVIDIA AI Enterprise software suite.
+Serve a Model in 3 Easy Steps
+# Step 1: Create the example model repository
+git clone -b r24.06 https://github.com/triton-inference-server/server.git
+cd server/docs/examples
+./fetch_models.sh
+
+# Step 2: Launch triton from the NGC Triton container
+docker run --gpus=1 --rm --net=host -v ${PWD}/model_repository:/models nvcr.io/nvidia/tritonserver:24.06-py3 tritonserver --model-repository=/models
+
+# Step 3: Sending an Inference Request
+# In a separate console, launch the image_client example from the NGC Triton SDK container
+docker run -it --rm --net=host nvcr.io/nvidia/tritonserver:24.06-py3-sdk
+/workspace/install/bin/image_client -m densenet_onnx -c 3 -s INCEPTION /workspace/images/mug.jpg
+
+# Inference should return the following
+Image '/workspace/images/mug.jpg':
+    15.346230 (504) = COFFEE MUG
+    13.224326 (968) = CUP
+    10.422965 (505) = COFFEEPOT
+Please read the QuickStart guide for additional information
+regarding this example. The quickstart guide also contains an example of how to launch Triton on CPU-only systems. New to Triton and wondering where to get started? Watch the Getting Started video.
+Examples and Tutorials
+Check out NVIDIA LaunchPad
+for free access to a set of hands-on labs with Triton Inference Server hosted on
+NVIDIA infrastructure.
+Specific end-to-end examples for popular models, such as ResNet, BERT, and DLRM
+are located in the
+NVIDIA Deep Learning Examples
+page on GitHub. The
+NVIDIA Developer Zone
+contains additional documentation, presentations, and examples.
+Documentation
+Build and Deploy
+The recommended way to build and use Triton Inference Server is with Docker
+images.
+
+Install Triton Inference Server with Docker containers (Recommended)
+Install Triton Inference Server without Docker containers
+Build a custom Triton Inference Server Docker container
+Build Triton Inference Server from source
+Build Triton Inference Server for Windows 10
+Examples for deploying Triton Inference Server with Kubernetes and Helm on GCP,
+AWS, and NVIDIA FleetCommand
+Secure Deployment Considerations
+
+Using Triton
+Preparing Models for Triton Inference Server
+The first step in using Triton to serve your models is to place one or
+more models into a model repository. Depending on
+the type of the model and on what Triton capabilities you want to enable for
+the model, you may need to create a model
+configuration for the model.
+
+Add custom operations to Triton if needed by your model
+Enable model pipelining with Model Ensemble
+and Business Logic Scripting (BLS)
+Optimize your models setting scheduling and batching
+parameters and model instances.
+Use the Model Analyzer tool
+to help optimize your model configuration with profiling
+Learn how to explicitly manage what models are available by loading and
+unloading models
+
+Configure and Use Triton Inference Server
+
+Read the Quick Start Guide to run Triton Inference
+Server on both GPU and CPU
+Triton supports multiple execution engines, called
+backends, including
+TensorRT,
+TensorFlow,
+PyTorch,
+ONNX,
+OpenVINO,
+Python, and more
+Not all the above backends are supported on every platform supported by Triton.
+Look at the
+Backend-Platform Support Matrix
+to learn which backends are supported on your target platform.
+Learn how to optimize performance using the
+Performance Analyzer
+and
+Model Analyzer
+Learn how to manage loading and unloading models in
+Triton
+Send requests directly to Triton with the HTTP/REST JSON-based
+or gRPC protocols
+
+Client Support and Examples
+A Triton client application sends inference and other requests to Triton. The
+Python and C++ client libraries
+provide APIs to simplify this communication.
+
+Review client examples for C++,
+Python,
+and Java
+Configure HTTP
+and gRPC
+client options
+Send input data (e.g. a jpeg image) directly to Triton in the body of an HTTP
+request without any additional metadata
+
+Extend Triton
+Triton Inference Server's architecture is specifically
+designed for modularity and flexibility
+
+Customize Triton Inference Server container for your use case
+Create custom backends
+in either C/C++
+or Python
+Create decoupled backends and models that can send
+multiple responses for a request or not send any responses for a request
+Use a Triton repository agent to add functionality
+that operates when a model is loaded and unloaded, such as authentication,
+decryption, or conversion
+Deploy Triton on Jetson and JetPack
+Use Triton on AWS
+Inferentia
+
+Additional Documentation
+
+FAQ
+User Guide
+Customization Guide
+Release Notes
+GPU, Driver, and CUDA Support
+Matrix
+
+Contributing
+Contributions to Triton Inference Server are more than welcome. To
+contribute please review the contribution
+guidelines. If you have a backend, client,
+example or similar contribution that is not modifying the core of
+Triton, then you should file a PR in the contrib
+repo.
+Reporting problems, asking questions
+We appreciate any feedback, questions or bug reporting regarding this project.
+When posting issues in GitHub,
+follow the process outlined in the Stack Overflow document.
+Ensure posted examples are:
+
+minimal – use as little code as possible that still produces the
+same problem
+complete – provide all parts needed to reproduce the problem. Check
+if you can strip external dependencies and still show the problem. The
+less time we spend on reproducing problems the more time we have to
+fix it
+verifiable – test the code you're about to provide to make sure it
+reproduces the problem. Remove all other problems that are not
+related to your request/question.
+
+For issues, please use the provided bug report and feature request templates.
+For questions, we recommend posting in our community
+GitHub Discussions.
+For more information
+Please refer to the NVIDIA Developer Triton page
+for more information.
+   
+
+
+
+
+
+
+
+
+About
+
+        The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
+      
+
+
+
+
+
+docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html
+
+
+Topics
+
+
+
+  machine-learning
+
+
+  cloud
+
+
+  deep-learning
+
+
+  gpu
+
+
+  inference
+
+
+  edge
+
+
+  datacenter
+
+
+
+Resources
+
+
+
+
+
+        Readme
+ 
+License
+
+
+
+
+
+     BSD-3-Clause license
+    
+
+Security policy
+
+
+
+
+
+        Security policy
+      
+
+
+
+
+
+
+
+
+Activity
+ 
+
+
+
+
+
+Custom properties
+ 
+Stars
+
+
+
+
+
+7.8k
+      stars
+ 
+Watchers
+
+
+
+
+
+140
+      watching
+ 
+Forks
+
+
+
+
+
+1.4k
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+      68
+
+
+
+
+
+
+
+Release 2.47.0 corresponding to NGC container 24.06
+
+          Latest
+ 
+Jun 28, 2024
+
+ 
+
+        + 67 releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Contributors
+      120
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      + 106 contributors
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python
+52.2%
+
+
+
+
+
+
+
+Shell
+24.5%
+
+
+
+
+
+
+
+C++
+19.2%
+
+
+
+
+
+
+
+CMake
+1.4%
+
+
+
+
+
+
+
+Java
+1.4%
+
+
+
+
+
+
+
+Roff
+0.9%
+
+
+
+
+
+
+
+Other
+0.4%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4738 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generative AI and LLM Learning Paths | NVIDIA
+
+
+
+
+
+
+
+
+NVIDIA Home
+NVIDIA Home
+
+
+
+
+
+Menu
+Menu icon
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Menu icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close icon
+
+
+
+
+
+Caret down icon
+Accordion is closed, click to open.
+
+
+
+
+
+
+
+
+
+
+
+
+Caret down icon
+Accordion is closed, click to open.
+
+
+
+
+
+
+
+Caret up icon
+Accordion is open, click to close.
+
+
+
+
+
+
+
+Caret right icon
+Click to expand
+
+
+
+
+
+
+
+
+
+
+Caret right icon
+Click to expand
+
+
+
+
+
+
+
+
+
+Caret right icon
+Click to expand menu.
+
+
+
+
+
+
+
+Caret left icon
+Click to collapse menu.
+
+
+
+
+
+
+
+
+
+
+Caret left icon
+Click to collapse menu.
+
+
+
+
+
+
+
+
+
+Caret left icon
+Click to collapse menu.
+
+
+
+
+
+
+
+Shopping Cart
+Click to see cart items
+
+
+
+
+
+
+
+
+
+
+
+
+Search icon
+Click to search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+ 
+Artificial Intelligence Computing Leadership from NVIDIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+Hardware
+
+
+Software
+
+
+
+
+
+
+
+
+
+
+
+Gaming and Creating
+
+
+GeForce Graphics Cards
+
+
+Laptops
+
+
+G-SYNC Monitors
+
+
+Studio
+
+
+SHIELD TV
+
+
+RTX AI PCs
+
+
+
+
+Laptops and Workstations
+
+
+Laptops
+
+
+NVIDIA RTX in Desktop Workstations
+
+
+NVIDIA RTX in Professional Laptops
+
+
+NVIDIA RTX-Powered AI Workstations
+
+
+
+
+Cloud and Data Center
+
+
+Overview
+
+
+Grace CPU
+
+
+DGX Platform
+
+
+EGX Platform
+
+
+IGX Platform
+
+
+HGX Platform
+
+
+NVIDIA MGX
+
+
+NVIDIA OVX
+
+
+DRIVE Sim
+
+
+
+
+Networking
+
+
+Overview
+
+
+DPUs and SuperNICs
+
+
+Ethernet
+
+
+InfiniBand
+
+
+
+
+GPUs
+
+
+GeForce
+
+
+NVIDIA RTX / Quadro
+
+
+Data Center
+
+
+
+
+Embedded Systems
+
+
+Jetson
+
+
+DRIVE AGX
+
+
+Clara AGX
+
+
+
+
+
+
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI - NeMo
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Apps and Tools
+
+
+Application Catalog
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+3D Workflows - Omniverse
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA RTX Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+RTX Accelerated Creative Apps
+
+
+Video Conferencing
+
+
+AI Workbench
+
+
+
+
+Gaming and Creating
+
+
+GeForce NOW Cloud Gaming
+
+
+GeForce Experience
+
+
+NVIDIA Broadcast App
+
+
+Animation - Machinima
+
+
+Modding - RTX Remix
+
+
+Studio
+
+
+
+
+Infrastructure
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Cloud Services
+
+
+Base Command
+
+
+BioNeMo
+
+
+NeMo
+
+
+Picasso
+
+
+Private Registry
+
+
+
+Omniverse
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+Artificial Intelligence
+
+
+Overview
+
+
+AI Platform
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Data Center and Cloud Computing
+
+
+Overview
+
+
+Accelerated Computing for Enterprise IT
+
+
+Cloud Computing
+
+
+Colocation
+
+
+MLOps
+
+
+Networking
+
+
+Virtualization
+
+
+
+
+Design and Simulation
+
+
+Overview
+
+
+3D Avatars
+
+
+
+Augmented and Virtual Reality
+
+
+Digital Twins
+
+
+Engineering Simulation
+
+
+Rendering
+
+
+
+
+Robotics and Edge Computing
+
+
+Overview
+
+
+Robotics
+
+
+Edge Computing
+
+
+Vision AI
+
+
+
+
+High-Performance Computing
+
+
+Overview
+
+
+HPC and AI
+
+
+Scientific Visualization
+
+
+Simulation and Modeling
+
+
+Quantum Computing
+
+
+
+
+Self-Driving Vehicles
+
+
+Overview
+
+
+In-Vehicle Computing
+
+
+Infrastructure
+
+
+
+
+
+
+
+
+Industries
+
+
+
+
+Industries  
+
+
+Overview
+
+
+Architecture, Engineering, Construction & Operations
+
+
+Automotive
+
+
+Consumer Internet
+
+
+Energy
+
+
+Financial Services
+
+
+Gaming
+
+
+Global Public Sector
+
+
+Healthcare and Life Sciences
+
+
+Higher Education and Research
+
+
+Industrial
+
+
+Manufacturing
+
+
+Media and Entertainment
+
+
+Restaurants and Quick-Service
+
+
+Retail and Consumer Packaged Goods
+
+
+Robotics
+
+
+Smart Cities and Spaces
+
+
+Supercomputing
+
+
+Telecommunications
+
+
+US Public Sector
+
+
+
+
+
+
+
+
+For You
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creatives/Designers
+
+
+Data Scientists
+
+
+Developers
+
+
+Executives
+
+
+Gamers
+
+
+IT Professionals
+
+
+Researchers
+
+
+Roboticists
+
+
+Startups
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA Studio
+
+
+Overview
+
+
+Accelerated Apps
+
+
+Products
+
+
+Compare
+
+
+Shop
+
+
+
+
+Industries
+
+
+Media and Entertainment
+
+
+Manufacturing
+
+
+Architecture, Engineering, and Construction
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+Data Center/Cloud
+
+
+Laptops/Desktops
+
+
+Augmented and Virtual Reality
+
+
+Multi-Display
+
+
+Rendering
+
+
+Metaverse - Omniverse
+
+
+Graphics Virtualization
+
+
+Engineering Simulation
+
+
+
+
+
+
+
+
+
+
+Industries
+
+
+Financial Services
+
+
+Consumer Internet
+
+
+Healthcare
+
+
+Higher Education
+
+
+Retail
+
+
+Public Sector
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Deep Learning Training
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+AI Inference - Triton
+
+
+AI Workflows
+
+
+Avatar - Tokkio
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Apache Spark
+
+
+AI Workbench
+
+
+Large Language Models - NeMo Framework
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Recommender Systems - Merlin
+
+
+
+Speech AI - Riva
+
+
+NGC Overview
+
+
+NGC Software Catalog
+
+
+
+Open Source Software
+
+
+
+
+
+Products
+
+
+PC
+
+
+Laptops & Workstations
+
+
+Data Center
+
+
+Cloud
+
+
+
+
+Resources
+
+
+Professional Services
+
+
+Technical Training
+
+
+Startups
+
+
+AI Accelerator Program
+
+
+Content Library
+
+
+
+NVIDIA Research
+
+
+Developer Blog
+
+
+Kaggle Grandmasters
+
+
+
+
+
+
+
+
+
+
+Developer Resources
+
+
+Join the Developer Program
+
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+Technical Training
+
+
+News
+
+
+
+Blog
+
+
+
+Forums
+
+
+
+Open Source Portal
+
+
+
+NVIDIA GTC
+
+
+Startups
+
+
+Developer Home
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI
+
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Top SDKs and Libraries
+
+
+Parallel Programming - CUDA Toolkit
+
+
+
+Edge AI applications - Jetpack
+
+
+
+BlueField data processing - DOCA
+
+
+
+Accelerated Libraries - CUDA-X Libraries
+
+
+
+Deep Learning Inference - TensorRT
+
+
+
+Deep Learning Training - cuDNN
+
+
+
+Deep Learning Frameworks
+
+
+
+Conversational AI - NeMo
+
+
+
+Generative AI - NeMo
+
+
+Intelligent Video Analytics - DeepStream
+
+
+
+NVIDIA Unreal Engine 4
+
+
+
+Ray Tracing - RTX
+
+
+
+Video Decode/Encode
+
+
+
+Automotive - DriveWorks SDK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeForce
+
+
+Overview
+
+
+GeForce Graphics Cards
+
+
+Gaming Laptops
+
+
+G-SYNC Monitors
+
+
+RTX Games
+
+
+GeForce Experience
+
+
+GeForce Drivers
+
+
+Forums
+
+
+Support
+
+
+Shop
+
+
+
+
+
+GeForce NOW
+
+
+Overview
+
+
+Download
+
+
+Games
+
+
+Pricing
+
+
+FAQs
+
+
+Forums
+
+
+Support
+
+
+
+
+SHIELD
+
+
+Overview
+
+
+Compare
+
+
+Shop
+
+
+FAQs
+
+
+
+Knowledge Base
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Data Center (On-Premises)
+
+
+Edge Computing
+
+
+Cloud Computing
+
+
+Networking
+
+
+Virtualization
+
+
+Enterprise IT Solutions
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+AI Inference - Triton
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Apps and Tools
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA Quadro Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+
+
+Resources
+
+
+Data Center & IT Resources
+
+
+Technical Training and Certification
+
+
+
+Enterprise Support
+
+
+Drivers
+
+
+Security
+
+
+Product Documentation
+
+
+
+Forums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA Research Home
+
+
+Research Areas
+
+
+AI Playground
+
+
+Video Highlights
+
+
+COVID-19
+
+
+
+NGC Catalog
+
+
+
+Technical Training
+
+
+Startups
+
+
+News
+
+
+Developer Blog
+
+
+
+Open Source Portal
+
+
+
+Cambridge-1 Supercomputer
+
+
+3D Deep Learning Research
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+AI Training - DGX
+
+
+Edge Computing - EGX
+
+
+Embedded Computing - Jetson
+
+
+
+
+Software
+
+
+Robotics - Isaac ROS
+
+
+
+Simulation - Isaac Sim
+
+
+
+TAO Toolkit
+
+
+
+Vision AI - Deepstream SDK
+
+
+
+Edge Deployment Management
+
+
+Synthetic Data Generation - Replicator
+
+
+
+
+
+Use Cases
+
+
+Healthcare and Life Sciences
+
+
+Manufacturing
+
+
+Public Sector
+
+
+Retail
+
+
+Robotics
+
+
+More >
+
+
+
+
+Resources
+
+
+NVIDIA Blog
+
+
+
+Robotics Research
+
+
+Developer Blog
+
+
+
+Technical Training
+
+
+Startups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop
+
+Drivers
+
+Support
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Log In
+  LogOut
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+LogOut
+
+
+
+
+
+
+
+
+
+
+NVIDIA
+NVIDIA logo
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+Hardware
+
+
+
+
+Gaming and Creating
+
+
+GeForce Graphics Cards
+
+
+Laptops
+
+
+G-SYNC Monitors
+
+
+Studio
+
+
+SHIELD TV
+
+
+RTX AI PCs
+
+
+
+
+Laptops and Workstations
+
+
+Laptops
+
+
+NVIDIA RTX in Desktop Workstations
+
+
+NVIDIA RTX in Professional Laptops
+
+
+NVIDIA RTX-Powered AI Workstations
+
+
+
+
+Cloud and Data Center
+
+
+Overview
+
+
+Grace CPU
+
+
+DGX Platform
+
+
+EGX Platform
+
+
+IGX Platform
+
+
+HGX Platform
+
+
+NVIDIA MGX
+
+
+NVIDIA OVX
+
+
+DRIVE Sim
+
+
+
+
+Networking
+
+
+Overview
+
+
+DPUs and SuperNICs
+
+
+Ethernet
+
+
+InfiniBand
+
+
+
+
+GPUs
+
+
+GeForce
+
+
+NVIDIA RTX / Quadro
+
+
+Data Center
+
+
+
+
+Embedded Systems
+
+
+Jetson
+
+
+DRIVE AGX
+
+
+Clara AGX
+
+
+
+
+
+
+Software
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI - NeMo
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Apps and Tools
+
+
+Application Catalog
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+3D Workflows - Omniverse
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA RTX Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+RTX Accelerated Creative Apps
+
+
+Video Conferencing
+
+
+AI Workbench
+
+
+
+
+Gaming and Creating
+
+
+GeForce NOW Cloud Gaming
+
+
+GeForce Experience
+
+
+NVIDIA Broadcast App
+
+
+Animation - Machinima
+
+
+Modding - RTX Remix
+
+
+Studio
+
+
+
+
+Infrastructure
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Cloud Services
+
+
+Base Command
+
+
+BioNeMo
+
+
+NeMo
+
+
+Picasso
+
+
+Private Registry
+
+
+
+Omniverse
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+
+Artificial Intelligence
+
+
+Overview
+
+
+AI Platform
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Data Center and Cloud Computing
+
+
+Overview
+
+
+Accelerated Computing for Enterprise IT
+
+
+Cloud Computing
+
+
+Colocation
+
+
+MLOps
+
+
+Networking
+
+
+Virtualization
+
+
+
+
+Design and Simulation
+
+
+Overview
+
+
+3D Avatars
+
+
+
+Augmented and Virtual Reality
+
+
+Digital Twins
+
+
+Engineering Simulation
+
+
+Rendering
+
+
+
+
+Robotics and Edge Computing
+
+
+Overview
+
+
+Robotics
+
+
+Edge Computing
+
+
+Vision AI
+
+
+
+
+High-Performance Computing
+
+
+Overview
+
+
+HPC and AI
+
+
+Scientific Visualization
+
+
+Simulation and Modeling
+
+
+Quantum Computing
+
+
+
+
+Self-Driving Vehicles
+
+
+Overview
+
+
+In-Vehicle Computing
+
+
+Infrastructure
+
+
+
+
+
+
+Industries
+
+
+
+
+
+
+Industries  
+
+
+Overview
+
+
+Architecture, Engineering, Construction & Operations
+
+
+Automotive
+
+
+Consumer Internet
+
+
+Energy
+
+
+Financial Services
+
+
+Gaming
+
+
+Global Public Sector
+
+
+Healthcare and Life Sciences
+
+
+Higher Education and Research
+
+
+Industrial
+
+
+Manufacturing
+
+
+Media and Entertainment
+
+
+Restaurants and Quick-Service
+
+
+Retail and Consumer Packaged Goods
+
+
+Robotics
+
+
+Smart Cities and Spaces
+
+
+Supercomputing
+
+
+Telecommunications
+
+
+US Public Sector
+
+
+
+
+
+
+For You
+
+
+
+
+
+
+Creatives/Designers
+
+
+
+
+NVIDIA Studio
+
+
+Overview
+
+
+Accelerated Apps
+
+
+Products
+
+
+Compare
+
+
+Shop
+
+
+
+
+Industries
+
+
+Media and Entertainment
+
+
+Manufacturing
+
+
+Architecture, Engineering, and Construction
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+Data Center/Cloud
+
+
+Laptops/Desktops
+
+
+Augmented and Virtual Reality
+
+
+Multi-Display
+
+
+Rendering
+
+
+Metaverse - Omniverse
+
+
+Graphics Virtualization
+
+
+Engineering Simulation
+
+
+
+
+
+
+Data Scientists
+
+
+
+
+Industries
+
+
+Financial Services
+
+
+Consumer Internet
+
+
+Healthcare
+
+
+Higher Education
+
+
+Retail
+
+
+Public Sector
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Deep Learning Training
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+AI Inference - Triton
+
+
+AI Workflows
+
+
+Avatar - Tokkio
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Apache Spark
+
+
+AI Workbench
+
+
+Large Language Models - NeMo Framework
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Recommender Systems - Merlin
+
+
+
+Speech AI - Riva
+
+
+NGC Overview
+
+
+NGC Software Catalog
+
+
+
+Open Source Software
+
+
+
+
+
+Products
+
+
+PC
+
+
+Laptops & Workstations
+
+
+Data Center
+
+
+Cloud
+
+
+
+
+Resources
+
+
+Professional Services
+
+
+Technical Training
+
+
+Startups
+
+
+AI Accelerator Program
+
+
+Content Library
+
+
+
+NVIDIA Research
+
+
+Developer Blog
+
+
+Kaggle Grandmasters
+
+
+
+
+
+
+Developers
+
+
+
+
+Developer Resources
+
+
+Join the Developer Program
+
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+Technical Training
+
+
+News
+
+
+
+Blog
+
+
+
+Forums
+
+
+
+Open Source Portal
+
+
+
+NVIDIA GTC
+
+
+Startups
+
+
+Developer Home
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI
+
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Top SDKs and Libraries
+
+
+Parallel Programming - CUDA Toolkit
+
+
+
+Edge AI applications - Jetpack
+
+
+
+BlueField data processing - DOCA
+
+
+
+Accelerated Libraries - CUDA-X Libraries
+
+
+
+Deep Learning Inference - TensorRT
+
+
+
+Deep Learning Training - cuDNN
+
+
+
+Deep Learning Frameworks
+
+
+
+Conversational AI - NeMo
+
+
+
+Generative AI - NeMo
+
+
+Intelligent Video Analytics - DeepStream
+
+
+
+NVIDIA Unreal Engine 4
+
+
+
+Ray Tracing - RTX
+
+
+
+Video Decode/Encode
+
+
+
+Automotive - DriveWorks SDK
+
+
+
+
+
+
+
+Executives
+
+
+Gamers
+
+
+
+
+GeForce
+
+
+Overview
+
+
+GeForce Graphics Cards
+
+
+Gaming Laptops
+
+
+G-SYNC Monitors
+
+
+RTX Games
+
+
+GeForce Experience
+
+
+GeForce Drivers
+
+
+Forums
+
+
+Support
+
+
+Shop
+
+
+
+
+
+GeForce NOW
+
+
+Overview
+
+
+Download
+
+
+Games
+
+
+Pricing
+
+
+FAQs
+
+
+Forums
+
+
+Support
+
+
+
+
+SHIELD
+
+
+Overview
+
+
+Compare
+
+
+Shop
+
+
+FAQs
+
+
+
+Knowledge Base
+
+
+
+
+
+
+
+IT Professionals
+
+
+
+
+Solutions
+
+
+Data Center (On-Premises)
+
+
+Edge Computing
+
+
+Cloud Computing
+
+
+Networking
+
+
+Virtualization
+
+
+Enterprise IT Solutions
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+AI Inference - Triton
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Apps and Tools
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA Quadro Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+
+
+Resources
+
+
+Data Center & IT Resources
+
+
+Technical Training and Certification
+
+
+
+Enterprise Support
+
+
+Drivers
+
+
+Security
+
+
+Product Documentation
+
+
+
+Forums
+
+
+
+
+
+
+
+Researchers
+
+
+
+
+
+
+
+NVIDIA Research Home
+
+
+Research Areas
+
+
+AI Playground
+
+
+Video Highlights
+
+
+COVID-19
+
+
+
+NGC Catalog
+
+
+
+Technical Training
+
+
+Startups
+
+
+News
+
+
+Developer Blog
+
+
+
+Open Source Portal
+
+
+
+Cambridge-1 Supercomputer
+
+
+3D Deep Learning Research
+
+
+
+
+
+
+
+Roboticists
+
+
+
+
+Products
+
+
+AI Training - DGX
+
+
+Edge Computing - EGX
+
+
+Embedded Computing - Jetson
+
+
+
+
+Software
+
+
+Robotics - Isaac ROS
+
+
+
+Simulation - Isaac Sim
+
+
+
+TAO Toolkit
+
+
+
+Vision AI - Deepstream SDK
+
+
+
+Edge Deployment Management
+
+
+Synthetic Data Generation - Replicator
+
+
+
+
+
+Use Cases
+
+
+Healthcare and Life Sciences
+
+
+Manufacturing
+
+
+Public Sector
+
+
+Retail
+
+
+Robotics
+
+
+More >
+
+
+
+
+Resources
+
+
+NVIDIA Blog
+
+
+
+Robotics Research
+
+
+Developer Blog
+
+
+
+Technical Training
+
+
+Startups
+
+
+
+
+
+
+Startups
+
+
+
+
+
+
+
+Shop
+
+
+Drivers
+
+
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training
+
+
+
+ For  Organizations 
+
+
+
+
+  For Individuals
+                                                        
+
+
+
+
+
+
+
+Developers
+Administrators
+
+
+
+
+For  Educators   
+
+
+Certification
+
+
+
+
+
+
+
+
+
+
+
+ For  Organizations 
+
+
+  For Individuals 
+
+Developers
+
+Administrators
+
+
+
+
+For  Educators   
+
+
+Certification
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ For  Organizations 
+ For Individuals
+
+ For Individuals
+
+Developers
+Administrators
+
+For  Educators   
+Certification
+
+
+
+
+
+
+
+
+
+This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the instructions how to enable JavaScript in your web browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Generative AI and LLM Learning Paths
+	    	
+
+
+
+
+
+
+
+
+
+
+Learn how to build and deploy gen AI-powered solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+
+Path for Developers
+
+
+Path for Administrators
+
+
+Certification
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Overview
+
+
+Path for Developers
+
+
+Path for Administrators
+
+
+Certification
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+Overview
+
+
+Path for Developers
+
+
+Path for Administrators
+
+
+Certification
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Stay Informed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elevate your technical skills in generative AI (gen AI) and large language models (LLM) with our comprehensive learning paths. One path is designed for developers to learn how to build and optimize solutions using gen AI and LLM. The other path for administrators is tailored to teach how to configure and support the infrastructure needed for advanced AI systems. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Learning Path for Developers
+	    	
+
+
+
+
+
+
+
+		    	Generative AI and Large Language Model Training
+	    	
+
+
+
+
+
+
+Choose the topics and courses that best match your learning needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share 
+ 
+
+
+   Share
+  
+
+ Facebook
+  
+
+ LinkedIn
+  
+
+ Twitter
+  
+
+
+Copy Link
+
+
+    Copied to clipboard. 
+  
+
+
+
+
+
+
+
+
+
+
+
+Foundational (3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Generative AI Explained
+    
+
+Free 2 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Fundamentals of Deep Learning
+    
+
+Certificate available $500 8 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Getting Started With Deep Learning
+    
+
+$90 8 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application Specific (4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Introduction to Transformer-Based Natural Language Processing
+    
+
+Certificate available $30 6 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Get Started With Highly Accurate Custom ASR for Speech AI
+    
+
+Free 3 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Building Conversational AI Applications
+    
+
+Certificate available $500 8 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Building Transformer-Based Natural Language Processing Applications
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generative AI and LLMs (9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Rapid Application Development Using Large Language Models
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Efficient Large Language Model (LLM) Customization
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Synthetic Tabular Data Generation Using Transformers
+    
+
+$30 4 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Prompt Engineering With LLaMA-2
+    
+
+$30 3 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Generative AI With Diffusion Models
+    
+
+$30 3 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Augment Your LLM Using Retrieval-Augmented Generation
+    
+
+$0 1 hour
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Generative AI With Diffusion Models
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Building RAG Agents With LLMs
+    
+
+Free 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Building RAG Agents With LLMs
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scaled Production (3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Deploying a Model for Inference at Production Scale
+    
+
+$30 4 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Data Parallelism: How to Train Deep Learning Models on Multiple GPUs
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        Model Parallelism: Building and Deploying Large Neural Networks
+    
+
+Certificate available $500 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Learning Path for Administrators
+	    	
+
+
+
+
+
+
+
+		    	Infrastructure for Generative AI and Large Language Model Training
+	    	
+
+
+
+
+
+
+Choose the topics and courses that best match your learning needs.
+
+
+
+
+
+
+
+
+
+
+Share 
+ 
+
+
+   Share
+  
+
+ Facebook
+  
+
+ LinkedIn
+  
+
+ Twitter
+  
+
+
+Copy Link
+
+
+    Copied to clipboard. 
+  
+
+
+
+
+
+
+
+
+
+Overview (1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        AI Infrastructure and Operations Fundamentals
+    
+
+Certification available $49 7 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA AI Enterprise (5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        NVIDIA AI Enterprise Administrator
+    
+
+$99 8 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        NVIDIA AI Enterprise Administrator
+    
+
+12 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        NVIDIA AI Enterprise Administrator - Private
+    
+
+Contact us for pricing. 12 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        NVIDIA NeMo™ Framework
+    
+
+Free 8 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        NVIDIA RAPIDS™ Accelerator for Apache Spark
+    
+
+$30 2 hours 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA DGX (4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        NVIDIA DGX™ H100/A100 Administration - Private
+    
+
+Contact us for pricing. 12 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        NVIDIA DGX H100/A100 Administration
+    
+
+$1,500 12 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        NVIDIA DGX BasePOD™ Administration - Private
+    
+
+Contact us for pricing. 12 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructor-Led Workshop
+
+        NVIDIA DGX SuperPOD™ Administration - Private
+    
+
+Contact us for pricing. 12 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Networking (2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Introduction to Networking
+    
+
+Free 1 hour
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        InfiniBand Essentials
+    
+
+Free 1.5 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional Recommended Training (4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Introduction to NVIDIA Base Command™ Manager
+    
+
+Free 3 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Data Center Management Made Easy With NVIDIA® UFM®
+    
+
+$49 3 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Introduction to NVIDIA DOCA™ for DPUs
+    
+
+Free 2 hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self-Paced Course
+
+        Getting Started With NVIDIA DOCA Flow
+    
+
+Free 1 hour
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These paths are suggestions and might be modified based on skill levels and desired outcomes.
+© 2024 NVIDIA Corporation and affiliates. All rights reserved. NVIDIA constantly develops new courses and updates current content. Courses may be added and/or removed. Hyperlinks may change.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Certification Exams
+	    	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certification
+
+        NVIDIA Certified Associate: Generative AI LLM
+    
+
+Remotely proctored 1 hour $135
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certification
+
+        NVIDIA Certified Associate: Generative AI Multimodal
+    
+
+Remotely proctored 1 hour $135
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certification
+
+        NVIDIA Certified Associate: AI Infrastructure and Operations
+    
+
+Remotely proctored 1 hour $135
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interested in a particular topic? View our full set of learning paths to see the recommended sequence of courses to take.
+
+
+
+
+
+
+View All Learning Paths
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Team Training for Generative AI and LLM
+	    	
+
+
+
+
+
+
+Connect with an NVIDIA training advisor to tailor a specialized program for your team. We’ll collaboratively design a customized training plan that aligns with your business goals and addresses your team’s specific learning needs.
+
+
+
+
+
+
+Connect With a Training Advisor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company Information
+
+
+About Us
+
+
+Company Overview
+
+
+Investors
+
+
+Venture Capital (NVentures)
+
+
+NVIDIA Foundation
+
+
+Research
+
+
+Corporate Sustainability
+
+
+Technologies
+
+
+Careers
+
+
+
+
+News and Events
+
+
+Newsroom
+
+
+Company Blog
+
+
+Technical Blog
+
+
+Webinars
+
+
+Stay Informed
+
+
+Events Calendar
+
+
+GTC AI Conference
+
+
+NVIDIA On-Demand
+
+
+
+
+Popular Links
+
+
+Developers
+
+
+Partners
+
+
+Executive Insights
+
+
+Startups and VCs
+
+
+Documentation
+
+
+Technical Training
+
+
+Training for IT Professionals
+
+
+Professional Services for Data Science
+
+
+
+
+
+
+
+
+
+
+
+Follow NVIDIA  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA
+
+
+
+
+
+
+
+
+
+
+	           United States
+	        
+
+
+
+
+Privacy Policy
+
+
+Manage My Privacy
+
+
+Do Not Sell or Share My Data
+
+
+Terms of Service
+
+
+Accessibility
+
+
+Corporate Policies
+
+
+Product Security
+
+
+Contact
+
+
+Copyright © 2024 NVIDIA Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

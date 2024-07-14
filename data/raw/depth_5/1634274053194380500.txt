@@ -1,0 +1,1117 @@
+
+
+
+
+
+
+
+
+
+
+How cutting-edge computer chips are speeding up the AI revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+Subscribe
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+news feature
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                            How cutting-edge computer chips are speeding up the AI revolution
+                        
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+NEWS FEATURE
+04 June 2024
+
+How cutting-edge computer chips are speeding up the AI revolution
+
+
+                    Engineers are harnessing the powers of graphics processing units (GPUs) and more, with a bevy of tricks to meet the computational demands of artificial intelligence.
+                
+
+
+
+
+    By
+    
+        
+        
+                Dan Garisto
+
+
+
+
+Dan Garisto
+
+
+View author publications
+
+You can also search for this author in PubMed
+ Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer chips are being adapted to do more parallel computation, faster, for AI applications. Credit: Google
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+This March, an eager crowd of 12,000 people filled a stadium in San Jose, California. “I hope you realize this is not a concert,” joked Jensen Huang, chief executive of chip-making company Nvidia in nearby Santa Clara.For the next half an hour, Huang prepped the crowd to hear the latest news about graphics processing units (GPUs), his company’s signature computer chip, which has been key to artificial-intelligence (AI) advances over the past decade. Huang held up the company’s 2022 model, the Hopper ‘superchip’. “Hopper changed the world,” he said. Then, after a dramatic pause, he revealed another shiny black rectangle about the size of a Post-it note: “This is Blackwell.” The crowd cheered.Back in 2022, Hopper beat the competition in every category — from image classification to speech recognition — on MLPerf, a battery of tests sometimes referred to as the olympics of AI. As soon as it hit the market, Hopper became the go-to chip for companies looking to supercharge their AI. Now Nvidia promises that Blackwell will be, for certain problems, several times faster than its predecessor. “I think Blackwell is going to take us to this next level of performance through a combination of more horsepower and also how the chips are communicating with each other,” says Dave Salvator, director of product marketing in Nvidia’s Accelerated Computing Group.While hopes and concerns swirl around the impact of AI, the market for AI chips continues to grow. Nvidia currently supplies more than 80% of them; in 2023, it sold 550,000 Hopper chips. Costing at least US$30,000 each, the powerful chips went to data centres, rather than personal computers. This year, the company’s market value skyrocketed to more than $2 trillion, making it the third-highest-valued company in the world, ahead of giants such as Amazon and Alphabet, the parent company of Google.
+
+
+
+
+Nvidia’s chief executive, Jensen Huang, holds up the technology firm’s new Blackwell graphics processing unit.Credit: David Paul Morris/Bloomberg/Getty
+
+
+Nvidia’s Blackwell chip is part of a wave of hardware developments, resulting from firms trying hard to keep pace with, and support, the AI revolution. Over the past decade, much of the advancement in AI has come not so much from clever coding tricks, as from the simple principle that bigger is better. Large language models have increasingly been trained on ever larger data sets, requiring ever more computing power. By some estimates, US firm OpenAI’s latest model, GPT-4, took 100 times more computing power to train than did its predecessor.Companies such as Meta have built data centres that rely on Nvidia GPUs. Others, including Google and IBM, along with a plethora of smaller companies, have designed their own AI chips; Meta is now working on its own, too. Meanwhile, researchers are experimenting with a range of chip designs, including some optimized to work on smaller devices. As AI moves beyond cloud-computing centres and into mobile devices, “I don’t think GPUs are enough any more,” says Cristina Silvano, a computer engineer at the Polytechnic University of Milan in Italy.These chips all have something in common: various tricks, including computing in parallel, more accessible memory and numerical shorthand, that help them to overcome the speed barriers of conventional computing.Chip changeMuch of the deep-learning revolution of the past decade can be credited to a departure from the conventional workhorse of computing: the central processing unit (CPU).
+
+‘Mind-blowing’ IBM chip speeds up AI
+A CPU is essentially a tiny order-following machine. “It basically looks at an instruction and says, ‘What does this tell me to do?’,” says Vaughn Betz, a computer engineer at the University of Toronto in Canada. At the most basic level, a CPU executes instructions by flipping transistors, simple electrical switches that represent ‘1’ as on and ‘0’ as off. With just this binary operation, transistors can perform incredibly complex calculations.The power and efficiency of a CPU depends mainly on the size of its transistors — smaller transistors flip faster, and can be packed more densely on a chip. Today, the most advanced transistors measure a mere 45 × 20 nanometres, not much bigger than their atomic building blocks. Top-of-the-line CPUs pack more than 100 million transistors into a square millimetre and can perform about a trillion flops (floating point operations per second).CPUs have improved exponentially since the 1970s. As transistors shrank, their density on a chip doubled every two years (a trend known as Moore’s law), and the smaller transistors became faster (as a result of a trend called Dennard scaling). Progress in CPUs was so rapid that it made custom-designing other kinds of chip pointless. “By the time you designed a special circuit, the CPU was already two times faster,” says Jason Cong, a computer engineer at the University of California, Los Angeles. But around 2005, smaller transistors stopped getting faster, and in the past few years, engineers became concerned that they couldn’t make transistors much smaller, as the devices started butting up against the fundamental laws of physics (see ‘The CPU slowdown’).
+
+
+
+
+Source: Karl Rupp
+
+
+The slowdown in CPU progress led computer engineers to seriously consider other kinds of chip. Early versions of GPUs had been around since the late 1970s, designed to do repetitive calculations for video gaming, such as rendering the colour of pixels on the screen as quickly as possible. Whereas CPUs process instructions sequentially, GPUs process more instructions in parallel.In general, CPUs have a few powerful ‘cores’ in which calculations are done. Each of these individual processing units receives instructions and is supported by multiple caches that store data in the short term. This architecture makes CPUs ideal for complex computations. GPUs, by contrast, have hundreds or thousands of smaller cores, each supported by fewer ancillary systems, such as caches (see ‘The GPU advantage’). Having many smaller cores allows GPUs to do many simple, repetitive calculations in parallel much faster than can a CPU. (This different approach to calculating for GPUs entails different computer code. Salvator points out that Nvidia has twice as many engineers working on code as it does on hardware.)
+
+
+
+
+Source: Cornell University
+
+
+In 2012, Geoffrey Hinton, a computer scientist at the University of Toronto and one of the early advocates of neural networks — algorithms inspired by the brain — challenged his then student Alex Krizhevsky to win the annual ImageNet competition, with the goal of training a computer to correctly identify images of everyday objects. At the time, programs using CPUs were managing 75% accuracy, at best. Krizhevsky realized that a neural-net AI trained using GPUs might do better, given that the bread and butter of machine learning is simple, repetitive calculations.Krizhevsky and his collaborators1 used two GPUs to train their neural network, called AlexNet. Their AI had 60 million parameters (internal variables that AI models use to make predictions), which at the time was unprecedented. AlexNet stomped on the competition, scoring 85% accuracy and surprising the world with its ability to reliably distinguish between similar images, such as those of leopards and jaguars. In a year or two, every ImageNet entrant was using GPUs; since then, AI researchers have leant heavily on those chips.Although GPUs, like CPUs, are still bound by the constraints of transistors, their ability to compute in parallel has allowed them to accelerate AI tasks. To train the large language model GPT-3, which has 175 billion parameters, researchers at OpenAI had to run 1,024 GPUs for a month straight, which cost several million dollars. In total, those GPUs performed 1023 flops. The same training would have taken hundreds to thousands of times longer on comparable CPUs. “With more computation, you could train a bigger network, and they started getting a lot better,” Betz says. GPT-4, for example, released in March 2023, has an astonishing 1.8 trillion parameters, a tenfold increase over its predecessor.Although GPUs have been central to the AI revolution, they aren’t the only show in town. As AI applications have proliferated, so too have AI chips.Chipping inSometimes there isn’t enough time to feed instructions into a chip. Field-programmable gate arrays (FPGAs) are designed so a computer engineer can program the chip’s circuits to follow specific orders in lieu of instructions. “Where a chip like a CPU or GPU must wait for external instructions, an FPGA just does it,” Betz says.
+
+Who’s making chips for AI? Chinese manufacturers lag behind US tech giants
+For Cong, an FPGA is “like a box of Legos”. An engineer can build an FPGA circuit by circuit into any design they can imagine, whether it’s for a washing-machine sensor or AI to guide a self-driving vehicle. However, compared with AI chips that have non-adjustable circuits, such as GPUs, FPGAs can be slower and less efficient. Companies including Altera — a subsidiary of Intel in San Jose — market FPGAs for a variety of AI applications, including medical imaging, and researchers have found them useful for niche tasks, such as handling data at particle colliders. The easy programmability of FPGAs also makes them useful for prototyping, Silvano says. She often designs AI chips using FPGAs before she attempts the laborious process of fabricating them.Silvano also works on a category of much smaller AI chips, boosting their computational efficiency so that they can improve mobile devices. Although it would be nice to simply put a full GPU on a mobile phone, she says, energy costs and price make that prohibitive. Slimmed-down AI chips can support the phone’s CPU by handling the tedious tasks of AI applications, such as image recognition, without relying on sending data to the cloud.Perhaps the most laborious job AI chips have is multiplying numbers. In 2010, Google had a problem: the company wanted to do voice transcription for a huge number of daily users. Training an AI to handle it automatically would have required, among other difficult tasks, multiplying a lot of numbers. “If we were just using CPUs, we would’ve had to double our server fleet,” says Norm Jouppi, a computer engineer at Google. “So that didn’t sound particularly appealing.” Instead, Jouppi helped to lead the development of a new kind of chip, the tensor processing unit (TPU), as a platform for Google’s AI.The TPU was designed specifically for the arithmetic that underpins AI. When the TPU is given one instruction, instead of performing one operation, it can perform more than 100,000. (The TPU’s mathematical multitasking is a result of specially designed circuitry and software; these days, many GPUs created with AI applications in mind, such as Blackwell, have similar capabilities.) The ability to execute an enormous number of operations with only a limited need to wait for instructions allowed Google to accelerate many of its AI projects, not just its voice-transcription service.To further speed up calculations, many AI chips, such as TPUs and GPUs, use a kind of digital shorthand. CPUs typically keep track of numbers in 64-bit format — that’s 64 slots for a 0 or a 1, all of which are needed to represent any given number. Using a data format with fewer bits can reduce the precision of calculations, so generic chips stick with 64.
+
+AI & robotics briefing: Lack of transparency surrounds Neuralink’s ‘brain-reading’ chip
+But if you can get away with less specificity, “hardware will be simpler, smaller, lower power”, Betz says. For example, listing a DNA sequence, in principle, requires only a 2-bit format because the genetic information has four possibilities: the bases A, T, G or C (represented as 00, 01, 10 or 11). An FPGA that Cong designed2 to align genomic data using a 2-bit format was 28 times faster than a comparable CPU using a 64-bit format. To speed up machine-learning calculations, engineers have lowered the precision of chips; TPUs rely on a specialized 16-bit format. For the latest generation of chips, such as Blackwell, users can even choose from a range of formats, 64-bit to 4-bit — whichever best suits the calculation that needs to be done.Chips ahoyAI chips are also designed to avoid remembering too much. Ferrying data back and forth between the microprocessor, in which calculations are done, and wherever the memory is stored can be extremely time-consuming and energy-intensive. To combat this problem, many GPUs have huge amounts of memory wired directly on a single chip — Nvidia’s Blackwell has about 200 gigabytes. When AI chips are installed in a server, they can also share memory to make networking between individual chips easier and require less electricity. Google has connected nearly 9,000 TPUs in a ‘pod’.Electricity usage — the burden of moving so many electrons through circuits — is no minor concern. Exact numbers can be hard to come by, but training GPT-3 is estimated to have consumed 1,300 megawatt hours (MWh) of electricity3. (The average household in the United Kingdom consumes about 3 MWh annually.) Even after training, using AI applications can be an energy sink. Although advances in chip design can improve efficiency, the energy costs of AI are continuing to increase year-on-year as models get larger4.The rise of AI chips such as GPUs does not spell the end for CPUs. Rather, the lines between even the basic types of chip are blurring — modern CPUs are better at parallel computations than the earlier versions were, and GPUs are becoming more versatile than they used to be. “Everybody steals from each other’s playbook,” Betz says. A version of Nvidia’s Blackwell chip pairs the GPU directly with a CPU; the most powerful supercomputer in the world, Frontier at Oak Ridge National Laboratory in Tennessee, relies on a mix of CPUs and GPUs.Given the speed of changes in the past decade, researchers say it’s difficult to predict the future of chips — it might include optical chips that use light instead of electrons5,6 or quantum computing chips. In the meantime, some say that making the public more aware of the AI hardware could help to demystify the field and correct the misperception that AI is all-powerful. “You can better communicate to people that AI is not any kind of magic,” says Silvano.At the root, it’s all just wires and electrons — unlikely to take over the world, says Jouppi. “You can just unplug it,” he says. He’s hopeful that the hardware will continue to improve, which in turn will help to accelerate AI applications in science. “I’m really passionate about that,” says Jouppi, “and I’m excited about what the future’s gonna bring.”
+
+Nature 630, 544-546 (2024)
+doi: https://doi.org/10.1038/d41586-024-01544-0
+
+ReferencesKrizhevsky, A., Sutskever, I. & Hinton, G. E. Commun. ACM 60, 84–90 (2017).Article 
+    
+                    Google Scholar 
+                Guo, L., Lau, J., Ruan, Z., Wei, P. & Cong, J. in IEEE 27th Annu. Int. Symp. Field-Programmable Cust. Comput. Mach. (FCCM) 127–135 (IEEE, 2019).Luccioni, A. S., Viguier, S. & Ligozat, A.-L. Preprint at arXiv https://doi.org/10.48550/arXiv.2211.02001 (2022).Desislavov, R., Martínez-Plumed, F. & Hernández-Orallo, J. Sustain. Comput. Inform. Sys. 38, 100857 (2023).PubMed 
+    
+                    Google Scholar 
+                Xu, Z. et al. Science 384, 202–209 (2024).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Nikkhah, V. et al. Nature Photon. 18, 501–508 (2024).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Download references
+
+
+Reprints and permissions
+
+Related Articles
+
+
+
+
+
+                        
+                        ‘Mind-blowing’ IBM chip speeds up AI
+                    
+
+
+
+
+
+
+                        
+                        Who’s making chips for AI? Chinese manufacturers lag behind US tech giants
+                    
+
+
+
+
+
+
+                        
+                        AI & robotics briefing: Lack of transparency surrounds Neuralink’s ‘brain-reading’ chip
+                    
+
+
+
+
+
+                        
+                        Google AI beats humans at designing computer chips
+                    
+
+
+
+Subjects
+
+
+Technology
+
+
+Computer science
+
+
+Machine learning
+
+
+
+Latest on:
+
+
+Technology
+
+
+
+
+
+Ex-Meta scientists debut gigantic AI protein design model
+News 08 JUL 24
+
+
+
+
+
+Inside the maths that drives AI
+Technology Feature 03 JUL 24
+
+
+
+
+Streamlined collaboration can boost CRISPR gene therapies for rare diseases
+Correspondence 02 JUL 24
+
+
+
+
+
+
+Computer science
+
+
+
+
+
+Can AI be superhuman? Flaws in top gaming bot cast doubt
+News 08 JUL 24
+
+
+
+
+
+Inside the maths that drives AI
+Technology Feature 03 JUL 24
+
+
+
+
+
+How I’m using AI tools to help universities maximize research impacts
+World View 26 JUN 24
+
+
+
+
+
+
+Machine learning
+
+
+
+
+
+Inside the maths that drives AI
+Technology Feature 03 JUL 24
+
+
+
+
+AI machine translation tools must be taught cultural differences too
+Correspondence 25 JUN 24
+
+
+
+
+
+‘Fighting fire with fire’ — using LLMs to combat LLM hallucinations
+News & Views 19 JUN 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jobs
+                
+
+
+
+
+
+Postdoctoral Researcher - Schmidt AI in Science Fellow
+
+The University of Toronto now recruiting for the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship. Valued at $85,000 CDN per year.
+Toronto (City), Ontario (CA)
+University of Toronto (U of T)
+
+
+
+
+
+
+
+
+Associate or Senior Editor (Quantum Physics and Quantum Technologies)
+
+To help us to build on the success of this journal, we’re seeking a researcher with a background in quantum physics.
+London or Madrid – hybrid working model.
+Springer Nature Ltd
+
+
+
+
+
+
+
+
+Five industrial PhD students to the Research School in Future Silviculture
+
+We are looking for five industrial PhD students to join the Research School in Future Silviculture at the Swedish University of Agricultural Sciences.
+Umeå, Uppsala
+Swedish University of Agricultural Sciences
+
+
+
+
+
+
+
+
+‘Excellence by Choice’ Postdoctoral Programme in Life Science
+
+Up to four postdoctoral fellowships within ‘Excellence by Choice’ Postdoctoral Programme in Life Science at Umeå University, Sweden
+Umeå, Sweden
+Umeå University (KBC)
+
+
+
+
+
+
+
+
+Southeast University Future Technology Institute Recruitment Notice
+
+Professor openings in mechanical engineering, control science and engineering, and integrating emerging interdisciplinary majors
+Nanjing, Jiangsu (CN)
+Southeast University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+Related Articles
+
+
+
+
+
+                        
+                        ‘Mind-blowing’ IBM chip speeds up AI
+                    
+
+
+
+
+
+
+                        
+                        Who’s making chips for AI? Chinese manufacturers lag behind US tech giants
+                    
+
+
+
+
+
+
+                        
+                        AI & robotics briefing: Lack of transparency surrounds Neuralink’s ‘brain-reading’ chip
+                    
+
+
+
+
+
+                        
+                        Google AI beats humans at designing computer chips
+                    
+
+
+
+Subjects
+
+
+Technology
+
+
+Computer science
+
+
+Machine learning
+
+
+
+
+
+
+
+
+
+
+
+Sign up to Nature Briefing
+An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+
+
+
+
+
+
+
+
+Email address
+
+
+
+
+Yes! Sign me up to receive the daily Nature Briefing email. I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+
+
+
+
+Email address
+
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
+            
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    News
+                                
+
+
+
+                                    Opinion
+                                
+
+
+
+                                    Research Analysis
+                                
+
+
+
+                                    Careers
+                                
+
+
+
+                                    Books & Culture
+                                
+
+
+
+                                    Podcasts
+                                
+
+
+
+                                    Videos
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Browse issues
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+
+Subscribe
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    Journal Staff
+                                
+
+
+
+                                    About the Editors
+                                
+
+
+
+                                    Journal Information
+                                
+
+
+
+                                    Our publishing models
+                                
+
+
+
+                                    Editorial Values Statement
+                                
+
+
+
+                                    Journal Metrics
+                                
+
+
+
+                                    Awards
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+                                    Editorial policies
+                                
+
+
+
+                                    History of Nature
+                                
+
+
+
+                                    Send a news tip
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    For Authors
+                                
+
+
+
+                                    For Referees
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Nature (Nature)
+                
+
+ISSN 1476-4687 (online)
+    
+
+ISSN 0028-0836 (print)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Professional development
+
+Nature Careers
+Nature 
+                        Conferences
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+
+
+
+
+
+
+© 2024 Springer Nature Limited
+
+
+
+
+
+
+
+

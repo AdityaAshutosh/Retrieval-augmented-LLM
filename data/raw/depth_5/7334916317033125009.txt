@@ -1,0 +1,4315 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certification Programs | NVIDIA
+
+
+
+
+
+
+
+
+NVIDIA Home
+NVIDIA Home
+
+
+
+
+
+Menu
+Menu icon
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Menu icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close icon
+
+
+
+
+
+Caret down icon
+Accordion is closed, click to open.
+
+
+
+
+
+
+
+
+
+
+
+
+Caret down icon
+Accordion is closed, click to open.
+
+
+
+
+
+
+
+Caret up icon
+Accordion is open, click to close.
+
+
+
+
+
+
+
+Caret right icon
+Click to expand
+
+
+
+
+
+
+
+
+
+
+Caret right icon
+Click to expand
+
+
+
+
+
+
+
+
+
+Caret right icon
+Click to expand menu.
+
+
+
+
+
+
+
+Caret left icon
+Click to collapse menu.
+
+
+
+
+
+
+
+
+
+
+Caret left icon
+Click to collapse menu.
+
+
+
+
+
+
+
+
+
+Caret left icon
+Click to collapse menu.
+
+
+
+
+
+
+
+Shopping Cart
+Click to see cart items
+
+
+
+
+
+
+
+
+
+
+
+
+Search icon
+Click to search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+ 
+Artificial Intelligence Computing Leadership from NVIDIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+Hardware
+
+
+Software
+
+
+
+
+
+
+
+
+
+
+
+Gaming and Creating
+
+
+GeForce Graphics Cards
+
+
+Laptops
+
+
+G-SYNC Monitors
+
+
+Studio
+
+
+SHIELD TV
+
+
+RTX AI PCs
+
+
+
+
+Laptops and Workstations
+
+
+Laptops
+
+
+NVIDIA RTX in Desktop Workstations
+
+
+NVIDIA RTX in Professional Laptops
+
+
+NVIDIA RTX-Powered AI Workstations
+
+
+
+
+Cloud and Data Center
+
+
+Overview
+
+
+Grace CPU
+
+
+DGX Platform
+
+
+EGX Platform
+
+
+IGX Platform
+
+
+HGX Platform
+
+
+NVIDIA MGX
+
+
+NVIDIA OVX
+
+
+DRIVE Sim
+
+
+
+
+Networking
+
+
+Overview
+
+
+DPUs and SuperNICs
+
+
+Ethernet
+
+
+InfiniBand
+
+
+
+
+GPUs
+
+
+GeForce
+
+
+NVIDIA RTX / Quadro
+
+
+Data Center
+
+
+
+
+Embedded Systems
+
+
+Jetson
+
+
+DRIVE AGX
+
+
+Clara AGX
+
+
+
+
+
+
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI - NeMo
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Apps and Tools
+
+
+Application Catalog
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+3D Workflows - Omniverse
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA RTX Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+RTX Accelerated Creative Apps
+
+
+Video Conferencing
+
+
+AI Workbench
+
+
+
+
+Gaming and Creating
+
+
+GeForce NOW Cloud Gaming
+
+
+GeForce Experience
+
+
+NVIDIA Broadcast App
+
+
+Animation - Machinima
+
+
+Modding - RTX Remix
+
+
+Studio
+
+
+
+
+Infrastructure
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Cloud Services
+
+
+Base Command
+
+
+BioNeMo
+
+
+NeMo
+
+
+Picasso
+
+
+Private Registry
+
+
+
+Omniverse
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+Artificial Intelligence
+
+
+Overview
+
+
+AI Platform
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Data Center and Cloud Computing
+
+
+Overview
+
+
+Accelerated Computing for Enterprise IT
+
+
+Cloud Computing
+
+
+Colocation
+
+
+MLOps
+
+
+Networking
+
+
+Virtualization
+
+
+
+
+Design and Simulation
+
+
+Overview
+
+
+3D Avatars
+
+
+
+Augmented and Virtual Reality
+
+
+Digital Twins
+
+
+Engineering Simulation
+
+
+Rendering
+
+
+
+
+Robotics and Edge Computing
+
+
+Overview
+
+
+Robotics
+
+
+Edge Computing
+
+
+Vision AI
+
+
+
+
+High-Performance Computing
+
+
+Overview
+
+
+HPC and AI
+
+
+Scientific Visualization
+
+
+Simulation and Modeling
+
+
+Quantum Computing
+
+
+
+
+Self-Driving Vehicles
+
+
+Overview
+
+
+In-Vehicle Computing
+
+
+Infrastructure
+
+
+
+
+
+
+
+
+Industries
+
+
+
+
+Industries  
+
+
+Overview
+
+
+Architecture, Engineering, Construction & Operations
+
+
+Automotive
+
+
+Consumer Internet
+
+
+Energy
+
+
+Financial Services
+
+
+Gaming
+
+
+Global Public Sector
+
+
+Healthcare and Life Sciences
+
+
+Higher Education and Research
+
+
+Industrial
+
+
+Manufacturing
+
+
+Media and Entertainment
+
+
+Restaurants and Quick-Service
+
+
+Retail and Consumer Packaged Goods
+
+
+Robotics
+
+
+Smart Cities and Spaces
+
+
+Supercomputing
+
+
+Telecommunications
+
+
+US Public Sector
+
+
+
+
+
+
+
+
+For You
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creatives/Designers
+
+
+Data Scientists
+
+
+Developers
+
+
+Executives
+
+
+Gamers
+
+
+IT Professionals
+
+
+Researchers
+
+
+Roboticists
+
+
+Startups
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA Studio
+
+
+Overview
+
+
+Accelerated Apps
+
+
+Products
+
+
+Compare
+
+
+Shop
+
+
+
+
+Industries
+
+
+Media and Entertainment
+
+
+Manufacturing
+
+
+Architecture, Engineering, and Construction
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+Data Center/Cloud
+
+
+Laptops/Desktops
+
+
+Augmented and Virtual Reality
+
+
+Multi-Display
+
+
+Rendering
+
+
+Metaverse - Omniverse
+
+
+Graphics Virtualization
+
+
+Engineering Simulation
+
+
+
+
+
+
+
+
+
+
+Industries
+
+
+Financial Services
+
+
+Consumer Internet
+
+
+Healthcare
+
+
+Higher Education
+
+
+Retail
+
+
+Public Sector
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Deep Learning Training
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+AI Inference - Triton
+
+
+AI Workflows
+
+
+Avatar - Tokkio
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Apache Spark
+
+
+AI Workbench
+
+
+Large Language Models - NeMo Framework
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Recommender Systems - Merlin
+
+
+
+Speech AI - Riva
+
+
+NGC Overview
+
+
+NGC Software Catalog
+
+
+
+Open Source Software
+
+
+
+
+
+Products
+
+
+PC
+
+
+Laptops & Workstations
+
+
+Data Center
+
+
+Cloud
+
+
+
+
+Resources
+
+
+Professional Services
+
+
+Technical Training
+
+
+Startups
+
+
+AI Accelerator Program
+
+
+Content Library
+
+
+
+NVIDIA Research
+
+
+Developer Blog
+
+
+Kaggle Grandmasters
+
+
+
+
+
+
+
+
+
+
+Developer Resources
+
+
+Join the Developer Program
+
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+Technical Training
+
+
+News
+
+
+
+Blog
+
+
+
+Forums
+
+
+
+Open Source Portal
+
+
+
+NVIDIA GTC
+
+
+Startups
+
+
+Developer Home
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI
+
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Top SDKs and Libraries
+
+
+Parallel Programming - CUDA Toolkit
+
+
+
+Edge AI applications - Jetpack
+
+
+
+BlueField data processing - DOCA
+
+
+
+Accelerated Libraries - CUDA-X Libraries
+
+
+
+Deep Learning Inference - TensorRT
+
+
+
+Deep Learning Training - cuDNN
+
+
+
+Deep Learning Frameworks
+
+
+
+Conversational AI - NeMo
+
+
+
+Generative AI - NeMo
+
+
+Intelligent Video Analytics - DeepStream
+
+
+
+NVIDIA Unreal Engine 4
+
+
+
+Ray Tracing - RTX
+
+
+
+Video Decode/Encode
+
+
+
+Automotive - DriveWorks SDK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeForce
+
+
+Overview
+
+
+GeForce Graphics Cards
+
+
+Gaming Laptops
+
+
+G-SYNC Monitors
+
+
+RTX Games
+
+
+GeForce Experience
+
+
+GeForce Drivers
+
+
+Forums
+
+
+Support
+
+
+Shop
+
+
+
+
+
+GeForce NOW
+
+
+Overview
+
+
+Download
+
+
+Games
+
+
+Pricing
+
+
+FAQs
+
+
+Forums
+
+
+Support
+
+
+
+
+SHIELD
+
+
+Overview
+
+
+Compare
+
+
+Shop
+
+
+FAQs
+
+
+
+Knowledge Base
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Data Center (On-Premises)
+
+
+Edge Computing
+
+
+Cloud Computing
+
+
+Networking
+
+
+Virtualization
+
+
+Enterprise IT Solutions
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+AI Inference - Triton
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Apps and Tools
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA Quadro Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+
+
+Resources
+
+
+Data Center & IT Resources
+
+
+Technical Training and Certification
+
+
+
+Enterprise Support
+
+
+Drivers
+
+
+Security
+
+
+Product Documentation
+
+
+
+Forums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA Research Home
+
+
+Research Areas
+
+
+AI Playground
+
+
+Video Highlights
+
+
+COVID-19
+
+
+
+NGC Catalog
+
+
+
+Technical Training
+
+
+Startups
+
+
+News
+
+
+Developer Blog
+
+
+
+Open Source Portal
+
+
+
+Cambridge-1 Supercomputer
+
+
+3D Deep Learning Research
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+AI Training - DGX
+
+
+Edge Computing - EGX
+
+
+Embedded Computing - Jetson
+
+
+
+
+Software
+
+
+Robotics - Isaac ROS
+
+
+
+Simulation - Isaac Sim
+
+
+
+TAO Toolkit
+
+
+
+Vision AI - Deepstream SDK
+
+
+
+Edge Deployment Management
+
+
+Synthetic Data Generation - Replicator
+
+
+
+
+
+Use Cases
+
+
+Healthcare and Life Sciences
+
+
+Manufacturing
+
+
+Public Sector
+
+
+Retail
+
+
+Robotics
+
+
+More >
+
+
+
+
+Resources
+
+
+NVIDIA Blog
+
+
+
+Robotics Research
+
+
+Developer Blog
+
+
+
+Technical Training
+
+
+Startups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop
+
+Drivers
+
+Support
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Log In
+  LogOut
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+LogOut
+
+
+
+
+
+
+
+
+
+
+NVIDIA
+NVIDIA logo
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+Hardware
+
+
+
+
+Gaming and Creating
+
+
+GeForce Graphics Cards
+
+
+Laptops
+
+
+G-SYNC Monitors
+
+
+Studio
+
+
+SHIELD TV
+
+
+RTX AI PCs
+
+
+
+
+Laptops and Workstations
+
+
+Laptops
+
+
+NVIDIA RTX in Desktop Workstations
+
+
+NVIDIA RTX in Professional Laptops
+
+
+NVIDIA RTX-Powered AI Workstations
+
+
+
+
+Cloud and Data Center
+
+
+Overview
+
+
+Grace CPU
+
+
+DGX Platform
+
+
+EGX Platform
+
+
+IGX Platform
+
+
+HGX Platform
+
+
+NVIDIA MGX
+
+
+NVIDIA OVX
+
+
+DRIVE Sim
+
+
+
+
+Networking
+
+
+Overview
+
+
+DPUs and SuperNICs
+
+
+Ethernet
+
+
+InfiniBand
+
+
+
+
+GPUs
+
+
+GeForce
+
+
+NVIDIA RTX / Quadro
+
+
+Data Center
+
+
+
+
+Embedded Systems
+
+
+Jetson
+
+
+DRIVE AGX
+
+
+Clara AGX
+
+
+
+
+
+
+Software
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI - NeMo
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Apps and Tools
+
+
+Application Catalog
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+3D Workflows - Omniverse
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA RTX Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+RTX Accelerated Creative Apps
+
+
+Video Conferencing
+
+
+AI Workbench
+
+
+
+
+Gaming and Creating
+
+
+GeForce NOW Cloud Gaming
+
+
+GeForce Experience
+
+
+NVIDIA Broadcast App
+
+
+Animation - Machinima
+
+
+Modding - RTX Remix
+
+
+Studio
+
+
+
+
+Infrastructure
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Cloud Services
+
+
+Base Command
+
+
+BioNeMo
+
+
+NeMo
+
+
+Picasso
+
+
+Private Registry
+
+
+
+Omniverse
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+
+Artificial Intelligence
+
+
+Overview
+
+
+AI Platform
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Data Center and Cloud Computing
+
+
+Overview
+
+
+Accelerated Computing for Enterprise IT
+
+
+Cloud Computing
+
+
+Colocation
+
+
+MLOps
+
+
+Networking
+
+
+Virtualization
+
+
+
+
+Design and Simulation
+
+
+Overview
+
+
+3D Avatars
+
+
+
+Augmented and Virtual Reality
+
+
+Digital Twins
+
+
+Engineering Simulation
+
+
+Rendering
+
+
+
+
+Robotics and Edge Computing
+
+
+Overview
+
+
+Robotics
+
+
+Edge Computing
+
+
+Vision AI
+
+
+
+
+High-Performance Computing
+
+
+Overview
+
+
+HPC and AI
+
+
+Scientific Visualization
+
+
+Simulation and Modeling
+
+
+Quantum Computing
+
+
+
+
+Self-Driving Vehicles
+
+
+Overview
+
+
+In-Vehicle Computing
+
+
+Infrastructure
+
+
+
+
+
+
+Industries
+
+
+
+
+
+
+Industries  
+
+
+Overview
+
+
+Architecture, Engineering, Construction & Operations
+
+
+Automotive
+
+
+Consumer Internet
+
+
+Energy
+
+
+Financial Services
+
+
+Gaming
+
+
+Global Public Sector
+
+
+Healthcare and Life Sciences
+
+
+Higher Education and Research
+
+
+Industrial
+
+
+Manufacturing
+
+
+Media and Entertainment
+
+
+Restaurants and Quick-Service
+
+
+Retail and Consumer Packaged Goods
+
+
+Robotics
+
+
+Smart Cities and Spaces
+
+
+Supercomputing
+
+
+Telecommunications
+
+
+US Public Sector
+
+
+
+
+
+
+For You
+
+
+
+
+
+
+Creatives/Designers
+
+
+
+
+NVIDIA Studio
+
+
+Overview
+
+
+Accelerated Apps
+
+
+Products
+
+
+Compare
+
+
+Shop
+
+
+
+
+Industries
+
+
+Media and Entertainment
+
+
+Manufacturing
+
+
+Architecture, Engineering, and Construction
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+Data Center/Cloud
+
+
+Laptops/Desktops
+
+
+Augmented and Virtual Reality
+
+
+Multi-Display
+
+
+Rendering
+
+
+Metaverse - Omniverse
+
+
+Graphics Virtualization
+
+
+Engineering Simulation
+
+
+
+
+
+
+Data Scientists
+
+
+
+
+Industries
+
+
+Financial Services
+
+
+Consumer Internet
+
+
+Healthcare
+
+
+Higher Education
+
+
+Retail
+
+
+Public Sector
+
+
+All Industries >
+
+
+
+
+Solutions
+
+
+AI Inference
+
+
+AI Workflows
+
+
+Conversational AI
+
+
+Data Analytics
+
+
+Deep Learning Training
+
+
+Generative AI
+
+
+Machine Learning
+
+
+Prediction and Forecasting
+
+
+Speech AI
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+AI Inference - Triton
+
+
+AI Workflows
+
+
+Avatar - Tokkio
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Apache Spark
+
+
+AI Workbench
+
+
+Large Language Models - NeMo Framework
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Recommender Systems - Merlin
+
+
+
+Speech AI - Riva
+
+
+NGC Overview
+
+
+NGC Software Catalog
+
+
+
+Open Source Software
+
+
+
+
+
+Products
+
+
+PC
+
+
+Laptops & Workstations
+
+
+Data Center
+
+
+Cloud
+
+
+
+
+Resources
+
+
+Professional Services
+
+
+Technical Training
+
+
+Startups
+
+
+AI Accelerator Program
+
+
+Content Library
+
+
+
+NVIDIA Research
+
+
+Developer Blog
+
+
+Kaggle Grandmasters
+
+
+
+
+
+
+Developers
+
+
+
+
+Developer Resources
+
+
+Join the Developer Program
+
+
+
+NGC Catalog
+
+
+
+NVIDIA NGC
+
+
+Technical Training
+
+
+News
+
+
+
+Blog
+
+
+
+Forums
+
+
+
+Open Source Portal
+
+
+
+NVIDIA GTC
+
+
+Startups
+
+
+Developer Home
+
+
+
+
+Application Frameworks
+
+
+AI Inference - Triton
+
+
+Automotive - DRIVE
+
+
+
+Cloud-AI Video Streaming - Maxine
+
+
+
+Computational Lithography - cuLitho
+
+
+
+Cybersecurity - Morpheus
+
+
+Data Analytics - RAPIDS
+
+
+Generative AI
+
+
+
+Healthcare - Clara
+
+
+High-Performance Computing
+
+
+
+Intelligent Video Analytics - Metropolis
+
+
+Logistics and Route Optimization - cuOpt
+
+
+Metaverse Applications - Omniverse
+
+
+
+Recommender Systems - Merlin
+
+
+
+Robotics - Isaac
+
+
+
+Speech AI - Riva
+
+
+Telecommunications - Aerial
+
+
+
+
+
+Top SDKs and Libraries
+
+
+Parallel Programming - CUDA Toolkit
+
+
+
+Edge AI applications - Jetpack
+
+
+
+BlueField data processing - DOCA
+
+
+
+Accelerated Libraries - CUDA-X Libraries
+
+
+
+Deep Learning Inference - TensorRT
+
+
+
+Deep Learning Training - cuDNN
+
+
+
+Deep Learning Frameworks
+
+
+
+Conversational AI - NeMo
+
+
+
+Generative AI - NeMo
+
+
+Intelligent Video Analytics - DeepStream
+
+
+
+NVIDIA Unreal Engine 4
+
+
+
+Ray Tracing - RTX
+
+
+
+Video Decode/Encode
+
+
+
+Automotive - DriveWorks SDK
+
+
+
+
+
+
+
+Executives
+
+
+Gamers
+
+
+
+
+GeForce
+
+
+Overview
+
+
+GeForce Graphics Cards
+
+
+Gaming Laptops
+
+
+G-SYNC Monitors
+
+
+RTX Games
+
+
+GeForce Experience
+
+
+GeForce Drivers
+
+
+Forums
+
+
+Support
+
+
+Shop
+
+
+
+
+
+GeForce NOW
+
+
+Overview
+
+
+Download
+
+
+Games
+
+
+Pricing
+
+
+FAQs
+
+
+Forums
+
+
+Support
+
+
+
+
+SHIELD
+
+
+Overview
+
+
+Compare
+
+
+Shop
+
+
+FAQs
+
+
+
+Knowledge Base
+
+
+
+
+
+
+
+IT Professionals
+
+
+
+
+Solutions
+
+
+Data Center (On-Premises)
+
+
+Edge Computing
+
+
+Cloud Computing
+
+
+Networking
+
+
+Virtualization
+
+
+Enterprise IT Solutions
+
+
+
+
+Software
+
+
+AI Enterprise Suite
+
+
+Cloud Native Support
+
+
+
+Cluster Management
+
+
+
+Edge Deployment Management
+
+
+AI Inference - Triton
+
+
+IO Acceleration
+
+
+Networking
+
+
+Virtual GPU
+
+
+
+
+Apps and Tools
+
+
+Data Center
+
+
+GPU Monitoring
+
+
+
+NVIDIA Quadro Experience
+
+
+NVIDIA RTX Desktop Manager
+
+
+
+
+Resources
+
+
+Data Center & IT Resources
+
+
+Technical Training and Certification
+
+
+
+Enterprise Support
+
+
+Drivers
+
+
+Security
+
+
+Product Documentation
+
+
+
+Forums
+
+
+
+
+
+
+
+Researchers
+
+
+
+
+
+
+
+NVIDIA Research Home
+
+
+Research Areas
+
+
+AI Playground
+
+
+Video Highlights
+
+
+COVID-19
+
+
+
+NGC Catalog
+
+
+
+Technical Training
+
+
+Startups
+
+
+News
+
+
+Developer Blog
+
+
+
+Open Source Portal
+
+
+
+Cambridge-1 Supercomputer
+
+
+3D Deep Learning Research
+
+
+
+
+
+
+
+Roboticists
+
+
+
+
+Products
+
+
+AI Training - DGX
+
+
+Edge Computing - EGX
+
+
+Embedded Computing - Jetson
+
+
+
+
+Software
+
+
+Robotics - Isaac ROS
+
+
+
+Simulation - Isaac Sim
+
+
+
+TAO Toolkit
+
+
+
+Vision AI - Deepstream SDK
+
+
+
+Edge Deployment Management
+
+
+Synthetic Data Generation - Replicator
+
+
+
+
+
+Use Cases
+
+
+Healthcare and Life Sciences
+
+
+Manufacturing
+
+
+Public Sector
+
+
+Retail
+
+
+Robotics
+
+
+More >
+
+
+
+
+Resources
+
+
+NVIDIA Blog
+
+
+
+Robotics Research
+
+
+Developer Blog
+
+
+
+Technical Training
+
+
+Startups
+
+
+
+
+
+
+Startups
+
+
+
+
+
+
+
+Shop
+
+
+Drivers
+
+
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training
+
+
+
+ For  Organizations 
+
+
+
+
+  For Individuals
+                                                        
+
+
+
+
+
+
+
+Developers
+Administrators
+
+
+
+
+For  Educators   
+
+
+Certification
+
+
+
+
+
+
+
+
+
+
+
+ For  Organizations 
+
+
+  For Individuals 
+
+Developers
+
+Administrators
+
+
+
+
+For  Educators   
+
+
+Certification
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ For  Organizations 
+ For Individuals
+
+ For Individuals
+
+Developers
+Administrators
+
+For  Educators   
+Certification
+
+
+
+
+
+
+
+
+
+This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the instructions how to enable JavaScript in your web browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Get Certified by NVIDIA
+	    	
+
+
+
+
+
+
+
+
+
+
+Validate and showcase your skills and expertise. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+Certifications
+
+
+Frequently Asked Questions
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Introduction
+
+
+Certifications
+
+
+Frequently Asked Questions
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+Certifications
+
+
+Frequently Asked Questions
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Stay Informed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Whether you’re a seasoned professional or just starting your journey in the industry, certification is a valuable way to advance your career. Certifications serve as tangible evidence of your expertise, proficiency, and commitment to continuous learning. 
+Showcase your skills and advance your career by getting certified by NVIDIA.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Certifications
+	    	
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NVIDIA-Certified Associate: AI Infrastructure and Operations 
+    
+
+An associate-level assessment for IT professionals and others looking to validate fundamental skills in AI infrastructure and operations. 
+
+
+Learn About This Certification
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NVIDIA-Certified Professional: InfiniBand
+    
+
+A professional-level assessment for networking and IT professionals looking to validate their skills in AI networking by NVIDIA.
+
+
+Learn About This Certification
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NVIDIA-Certified Associate:  Generative AI and LLMs
+    
+
+An associate-level assessment for developers who are looking to validate their skills in the use of generative AI and large language models.
+
+
+Learn About This Certification
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NVIDIA-Certified Associate:  Multimodal Generative AI
+    
+
+An associate-level assessment for developers who are looking to validate their skills in the use of multimodal generative AI.  
+
+
+Learn About This Certification
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Prepare Your Workspace for an Exam
+    
+
+If you’re taking a certification exam remotely, a proctor will monitor your exam via webcam and microphone. Verify that your workspace is ready before starting the exam. 
+
+
+Get Your Workspace Ready
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Frequently Asked Questions
+	    	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certification Process 
+
+
+
+
+
+
+
+
+
+
+What’s the process to get certified by NVIDIA?
+
+Choose the NVIDIA certification exam.  Depending on your job role, expertise, and career aspirations, choose the certification that best suits your needs. Visit the certification center to explore your options.
+  
+    
+   
+Prepare with recommended training and learning resources. NVIDIA offers a multitude of free and paid learning resources. For each certification exam, we ‘ve identified a set of training and other resources to help you prepare for the exam. This might include self-paced labs, instructor-led training, whitepapers, blogs, on-demand videos, and more.
+  
+    
+   
+Gain hands-on experience. Some of our professional certifications require a level of practical knowledge. Hands-on experience with NVIDIA technologies will better prepare you for these exams.
+  
+    
+   
+Schedule and pay for the exam. Once you’re ready, schedule the exam and pay the examination fee. You can do this in the certification center.
+  
+    
+   
+Take the exam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exam Registration, Costs, and Cancellation Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I register for an exam? You can register in our certification center.
+How should I prepare for an exam? Each certification exam has a list of recommended training and additional materials to review.
+How long is the exam, and what types of questions can I expect? The number of questions on a certification exam varies by exam and is subject to change as we update it to align it with any changes in the technology and job role. Most of our certification exams contain between 40 and 60 questions. See individual exam webpages in the certification center for details.
+How much do exams cost? Exam prices vary and are subject to change. Visit the individual exam webpages for the latest information. In some countries and regions, additional taxes may apply. Contact us here for information on educational and group discounts.  
+Can I take a break during my exam? Breaks aren’t allowed for remotely proctored exams. For on-site exams, breaks are permitted. However, the test timer will not stop for the break. 
+What’s my window for scheduling an exam? You can schedule certification exams up to 30 days in advance.
+How many exams can I have scheduled simultaneously? You can purchase and schedule as many exams as you’d like but you can only take one exam per sitting.
+What’s your cancellation policy? Exams are non-cancellable and non-refundable. NVIDIA won’t issue refunds for exams that are missed. You may reschedule an examination date only once. The rescheduled examination date must be within three months of the date the examination fee was paid for that examination. The new date may not occur during the last three days of that three-month period.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exam Security and Administration
+
+
+
+
+
+
+
+
+
+
+NVIDIA is committed to ensuring that our certification exams are respected and valued in the marketplace. Accordingly, we make sure the integrity of our exams isn’t compromised and hold our NVIDIA Authorized Testing Partners (NATPs) accountable for taking appropriate steps to prevent and detect fraud and exam security breaches. We conduct periodic data forensics to identify patterns of aberrance in exam results that help detect cheating or content theft. For example, forensic indicators such as types of responses, latency, pass rates, and retakes may reveal patterns of cheating, collusion, or theft. Prevention and early detection are critical elements that require the close cooperation of NATPs. Therefore, in addition to relying on our NATPs to provide industry-standard monitoring during testing, we require them to ensure appropriate physical or virtual testing environments and train administrators and proctors to provide quality oversight. Administrators and proctors who observe violations of testing rules, or suspect a security breach, will immediately contact NVIDIA.
+What is an appropriate physical or virtual testing environment? For in-person testing, NVIDIA Authorized Testing Partners (NATPs) will confirm that their testing area is a professional environment where you can take the exam without interruptions and each exam can be proctored with an unobstructed view of every test candidate in the testing area.  For remote testing, the NATP will take test-takers through the exam launch, login procedures, multi-factor identity verification, and a 360° environment security assessment.
+What are acceptable methods of proctoring?
+
+Camera/video display: The proctor may remotely monitor you via a camera with a complete view of your testing environment. 
+Observation window: The proctor may monitor you through an observation window with a complete view of the testing environment. 
+In-room proctoring: The proctor is in the same room as the test-taker.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exam Check-In and Procedures
+
+
+
+
+
+
+
+
+
+
+
+The NVIDIA Authorized Training Partner (NATP) will verify your identity with at least one form of valid government-issued ID (containing both your photograph and signature). The name on your ID must match the name you have registered with.  
+The NATP/proctor will not allow recording or electronic devices in the testing area. Such devices include wristwatches, cameras, computers, and cell phones. Additional property, such as books or bags, must be stored outside the testing environment or be inaccessible during the exam. 
+The NATP/proctor may permit you to take a break during in-person testing if requested, but the testing clock can’t be stopped during the break. You aren’t permitted to conduct activities during a break that may compromise exam security, including using a telephone and/or communicating with other test candidates. Breaks aren’t permitted for remotely proctored exams. 
+The proctor will confirm that your ID matches the NVIDIA account information on the “Proctor Validation Screen” before launching the exam. 
+Proctors may answer questions regarding the functionality of the exam software but may not answer questions or provide instructions related to exam content. 
+
+Cheating If a test candidate is caught cheating, the proctor will stop the exam immediately and notify the candidate of the infraction and what was observed.
+
+
+
+
+
+
+
+
+
+
+
+
+Online Remote Exams
+
+
+
+
+
+
+
+
+
+
+If you choose to take an exam online remotely, you’ll need to install a secure browser on your computer provided by the NVIDIA Authorized Training Partner (NATP) so that the proctor can communicate with you, monitor and record your examination session, and ensure that you’re not able to use your computer, other devices, or materials to violate the examination rules.
+This will involve monitoring you and your computer in real time throughout the examination session, including recording your face, desk, workspace, and voice for security and integrity purposes. You’ll be monitored and recorded at your location by video, audio, and other technological means so that all activity at your location will be visible to the proctor.
+The NATP will process your personal data, including personal details provided (such as name and email address), qualifications, education, assessment details, and any data captured during the exam session (identification, monitoring data, answers to exam questions, results of the exam, and records of technical support). At the end of the exam (following final review and confirmed submission), you must disconnect from the NATP’s browser to stop the recording.
+In the event any misconduct is detected during the exam session, the examination may be paused or terminated without refund and a report will be provided to NVIDIA. The NATP will share the results of your exam, including personal data, with NVIDIA.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Exam Scoring
+
+
+
+
+
+
+
+
+
+
+When will I get my exam results and certification? For most exams, you’ll be informed of your results within minutes. It can take up to 24 hours for results to be communicated to you via email.
+How are exams scored? NVIDIA certification exams are pass/fail. You won’t receive a score.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sharing Your Credentials
+
+
+
+
+
+
+
+
+
+
+NVIDIA certifications serve as tangible evidence of your expertise, proficiency, and commitment to continuous learning. Once received, be sure to share your credentials on your LinkedIn profile and career-related social media posts or by adding a personalized link in your email signature. 
+For LinkedIn, follow these step-by-step instructions to add your credential to the "Licenses and Certifications" section of your profile.  Digital certificates can also be downloaded and printed for your records. 
+
+
+
+
+
+
+
+
+
+
+
+
+Retaking Exams 
+
+
+
+
+
+
+
+
+
+
+If you don’t pass an exam on the first attempt, you can purchase the exam again. There’s a 72-hour waiting period before the exam can be retaken.
+If you don’t pass on the second attempt, you must wait at least 10 days before retaking the exam a third time.
+A 14-day waiting period is imposed for the fourth and subsequent exam retakes. 
+You may not take any given exam more than five times per year (12 months). This 12-month period starts the day of the purchase of the first exam. 
+To take a given exam more than five times per year or to have the time between attempts waived, you must submit a request and obtain prior permission from NVIDIA. Requests should be sent via our contact us form.
+These requests should include the following information:
+
+Your name
+Your email address
+Exam name
+Reason(s) why more than five attempts for an exam is needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certification Renewal
+
+
+
+
+
+
+
+
+
+
+Can NVIDIA certifications be renewed? NVIDIA certifications are valid for two years, after which you must retake the exam to be recertified.  What do I do when my certification expires? If your certification expires, you must pass the exam again to be recertified. 
+
+
+
+
+
+
+
+
+
+
+
+
+Exam Accommodations 
+
+
+
+
+
+
+
+
+
+
+Am I required to take an exam in English? NVIDIA certification exams are currently only available in English. If English isn’t your native language, you can request an accommodation for additional time. Approval for extra time is provided on a case-by-case basis and must be requested before the exam. Send your accommodation requests via our contact us form.
+Please include: 
+
+Your name
+Your email address
+Exam name
+Accommodations required
+
+
+  
+
+What disability accommodations are available? Contact us to request disability accommodation. Please include: 
+
+Your name
+Your email address
+Exam name
+Accommodations required and why
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exam Feedback
+
+
+
+
+
+
+
+
+
+
+How can I provide feedback about an exam question or exam experience? If you have feedback about an NVIDIA training course, provide it directly to the instructor or via the end-of-course survey. If you have feedback on the exam itself or the exam experience, please contact us.
+
+
+
+
+
+
+
+
+
+
+
+
+Accuracy and Integrity of Exam Process
+
+
+
+
+
+
+
+
+
+
+Following completion of your exam, NVIDIA and/or the NVIDIA Authorized Training Partner (NATP) may review your exam record for scoring accuracy, for evidence of misconduct, and for response patterns that may suggest your scores don’t represent a valid measure of your knowledge or competence as sampled by the exam (“measurement error”). NVIDIA reserves the right to invalidate your exam if the review of your exam record reveals scoring inaccuracies (attributable to NVIDIA or to the NATP), response patterns indicative of misconduct on your part, or response patterns indicative of measurement error(s). If NVIDIA determines that your exam is invalid due to scoring errors or measurement error(s), you’ll be advised of options for retaking the exam. If NVIDIA determines that your exam is invalid due to misconduct on your part, NVIDIA reserves the right to invalidate your exam and consider your actions in violation of this agreement.
+
+
+
+
+
+
+
+
+
+
+
+
+Action for Noncompliance
+
+
+
+
+
+
+
+
+
+
+You understand and agree that if, for any reason and at our sole discretion, NVIDIA believes your exam results do not accurately reflect your true knowledge or mastery of the exam’s subject matter and/or that you’ve violated this agreement, we have the right (without refund of any kind) to deny you any further participation in the exam, cancel a passed exam result, revoke any preexisting NVIDIA certificates, badges, and/or other rights previously conferred on you, and permanently bar you from any further participation in the certification program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For any other questions or issues with certification, please contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Attending Dell Technologies World 2024? 
+	    	
+
+
+
+
+
+
+Earn NVIDIA certification in generative AI with complimentary exams for attendees. Start your exam preparation today.
+
+
+
+
+
+
+Get Ready
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	Not ready for a certification? 
+	    	
+
+
+
+
+
+
+Check out our other NVIDIA credentials here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA offers training and certification for professionals looking to enhance their skills and knowledge in the field of AI, accelerated computing, data science, advanced networking, graphics, simulation, and more.  Contact us to learn how we can help you achieve your goals.
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company Information
+
+
+About Us
+
+
+Company Overview
+
+
+Investors
+
+
+Venture Capital (NVentures)
+
+
+NVIDIA Foundation
+
+
+Research
+
+
+Corporate Sustainability
+
+
+Technologies
+
+
+Careers
+
+
+
+
+News and Events
+
+
+Newsroom
+
+
+Company Blog
+
+
+Technical Blog
+
+
+Webinars
+
+
+Stay Informed
+
+
+Events Calendar
+
+
+GTC AI Conference
+
+
+NVIDIA On-Demand
+
+
+
+
+Popular Links
+
+
+Developers
+
+
+Partners
+
+
+Executive Insights
+
+
+Startups and VCs
+
+
+Documentation
+
+
+Technical Training
+
+
+Training for IT Professionals
+
+
+Professional Services for Data Science
+
+
+
+
+
+
+
+
+
+
+
+Follow NVIDIA  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA
+
+
+
+
+
+
+
+
+
+
+	           United States
+	        
+
+
+
+
+Privacy Policy
+
+
+Manage My Privacy
+
+
+Do Not Sell or Share My Data
+
+
+Terms of Service
+
+
+Accessibility
+
+
+Corporate Policies
+
+
+Product Security
+
+
+Contact
+
+
+Copyright © 2024 NVIDIA Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

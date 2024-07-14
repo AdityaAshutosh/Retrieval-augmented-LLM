@@ -1,31 +1,3 @@
-# import requests
-# from bs4 import BeautifulSoup
-# import time
-
-# visited_links = set()
-
-# def fetch_links(url, depth):
-#     if depth > 5 or url in visited_links:
-#         return
-#     try:
-#         response = requests.get(url)
-#         soup = BeautifulSoup(response.text, 'html.parser')
-#         visited_links.add(url)
-#         print(f"Fetched {url} at depth {depth}")
-        
-#         # Extract and process content here
-        
-#         links = [a['href'] for a in soup.find_all('a', href=True)]
-#         for link in links:
-#             full_link = link if link.startswith('http') else f"https://docs.nvidia.com/cuda/{link}"
-#             fetch_links(full_link, depth + 1)
-#             time.sleep(1)  # To avoid overloading the server
-#     except Exception as e:
-#         print(f"Error fetching {url}: {e}")
-
-# fetch_links("https://docs.nvidia.com/cuda/", 1)
-
-
 import os
 import requests
 from bs4 import BeautifulSoup
